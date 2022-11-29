@@ -1,0 +1,955 @@
+Not using cached read wrapper
+Stats thread started at 0.285574
+ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-391E3B2B4A704A8D3DAD5E8A3727DCEE
+         Session CrashGUID >====================================================
+Loading HoloLens ini files took 0.03 seconds
+Loading Android ini files took 0.03 seconds
+Loading Mac ini files took 0.03 seconds
+Loading IOS ini files took 0.03 seconds
+Loading Unix ini files took 0.04 seconds
+Loading TVOS ini files took 0.04 seconds
+Loading LinuxArm64 ini files took 0.04 seconds
+Loading Linux ini files took 0.05 seconds
+Loading VulkanPC ini files took 0.02 seconds
+Loading Windows ini files took 0.02 seconds
+Mounting Engine plugin AudioGameplayVolume
+Mounting Engine plugin AudioGameplay
+Mounting Engine plugin Bridge
+Mounting Engine plugin FastBuildController
+Mounting Engine plugin MeshPainting
+Mounting Engine plugin XGEController
+Mounting Engine plugin AnimationLocomotionLibrary
+Mounting Engine plugin AnimationWarping
+Mounting Engine plugin ControlRig
+Mounting Engine plugin IKRig
+Mounting Engine plugin AnimationModifierLibrary
+Mounting Engine plugin ControlRigSpline
+Mounting Engine plugin GameplayInsights
+Mounting Engine plugin Paper2D
+Mounting Engine plugin BlendSpaceMotionAnalysis
+Mounting Engine plugin AISupport
+Mounting Engine plugin EnvironmentQueryEditor
+Mounting Engine plugin AnimationSharing
+Mounting Engine plugin CLionSourceCodeAccess
+Mounting Engine plugin CodeLiteSourceCodeAccess
+Mounting Engine plugin NullSourceCodeAccess
+Mounting Engine plugin GitSourceControl
+Mounting Engine plugin PixWinPlugin
+Mounting Engine plugin PerforceSourceControl
+Mounting Engine plugin KDevelopSourceCodeAccess
+Mounting Engine plugin PlasticSourceControl
+Mounting Engine plugin PropertyAccessNode
+Mounting Engine plugin PluginUtils
+Mounting Engine plugin TraceDataFilters
+Mounting Engine plugin SubversionSourceControl
+Mounting Engine plugin RiderSourceCodeAccess
+Mounting Engine plugin UObjectPlugin
+Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+Mounting Engine plugin TextureFormatOodle
+Mounting Engine plugin VisualStudioSourceCodeAccess
+Mounting Engine plugin AssetManagerEditor
+Mounting Engine plugin XCodeSourceCodeAccess
+Mounting Engine plugin AssetReferenceRestrictions
+Mounting Engine plugin OodleNetwork
+Mounting Engine plugin OpenColorIO
+Mounting Engine plugin AssetSearch
+Mounting Engine plugin CameraShakePreviewer
+Mounting Engine plugin BlueprintMaterialTextureNodes
+Mounting Engine plugin CryptoKeys
+Mounting Engine plugin CurveEditorTools
+Mounting Engine plugin DataValidation
+Mounting Engine plugin EditorDebugTools
+Mounting Engine plugin GameplayTagsEditor
+Mounting Engine plugin EditorScriptingUtilities
+Mounting Engine plugin FacialAnimation
+Mounting Engine plugin MacGraphicsSwitching
+Mounting Engine plugin GeometryMode
+Mounting Engine plugin MaterialAnalyzer
+Mounting Engine plugin MobileLauncherProfileWizard
+Mounting Engine plugin GameplayCameras
+Mounting Engine plugin ModelingToolsEditorMode
+Mounting Engine plugin PluginBrowser
+Mounting Engine plugin SequencerAnimTools
+Mounting Engine plugin StylusInput
+Mounting Engine plugin WorldPartitionHLODUtilities
+Mounting Engine plugin SpeedTreeImporter
+Mounting Engine plugin DatasmithContent
+Mounting Engine plugin VariantManagerContent
+Mounting Engine plugin ActorPalette
+Mounting Engine plugin AutomationUtils
+Mounting Engine plugin BackChannel
+Mounting Engine plugin ChaosCloth
+Mounting Engine plugin ChaosClothEditor
+Mounting Engine plugin ChaosNiagara
+Mounting Engine plugin ChaosEditor
+Mounting Engine plugin CharacterAI
+Mounting Engine plugin ChaosSolverPlugin
+Mounting Engine plugin CommonConversation
+Mounting Engine plugin CommonUI
+Mounting Engine plugin ControlFlows
+Mounting Engine plugin EnhancedInput
+Mounting Engine plugin GameFeatures
+Mounting Engine plugin FullBodyIK
+Mounting Engine plugin Gauntlet
+Mounting Engine plugin GeometryCollectionPlugin
+Mounting Engine plugin GeometryFlow
+Mounting Engine plugin GeometryScripting
+Mounting Engine plugin Landmass
+Mounting Engine plugin MeshLODToolset
+Mounting Engine plugin MeshModelingToolsetExp
+Mounting Engine plugin ModularGameplay
+Mounting Engine plugin OpenImageDenoise
+Mounting Engine plugin PythonScriptPlugin
+Mounting Engine plugin PlanarCut
+Mounting Engine plugin PlatformCrypto
+Mounting Engine plugin ProxyLODPlugin
+Mounting Engine plugin RemoteSession
+Mounting Engine plugin SkeletalReduction
+Mounting Engine plugin Volumetrics
+Mounting Engine plugin Water
+Mounting Engine plugin AndroidMedia
+Mounting Engine plugin AvfMedia
+Mounting Engine plugin ImgMedia
+Mounting Engine plugin MediaCompositing
+Mounting Engine plugin MediaIOFramework
+Mounting Engine plugin WebMMedia
+Mounting Engine plugin WmfMedia
+Mounting Engine plugin TcpMessaging
+Mounting Engine plugin ActorSequence
+Mounting Engine plugin UdpMessaging
+Mounting Engine plugin MoviePipelineMaskRenderPass
+Mounting Engine plugin MovieRenderPipeline
+Mounting Engine plugin MediaPlayerEditor
+Mounting Engine plugin LevelSequenceEditor
+Mounting Engine plugin MatineeToLevelSequence
+Mounting Engine plugin TemplateSequence
+Mounting Engine plugin SequencerScripting
+Mounting Engine plugin AlembicImporter
+Mounting Engine plugin Niagara
+Mounting Engine plugin LauncherChunkInstaller
+Mounting Engine plugin EOSShared
+Mounting Engine plugin OnlineBase
+Mounting Engine plugin OnlineFramework
+Mounting Engine plugin OnlineSubsystem
+Mounting Engine plugin OnlineSubsystemEOS
+Mounting Engine plugin OnlineSubsystemNull
+Mounting Engine plugin OnlineSubsystemSteam
+Mounting Engine plugin ActorLayerUtilities
+Mounting Engine plugin SocketSubsystemEOS
+Mounting Engine plugin OnlineSubsystemUtils
+Mounting Engine plugin AndroidFileServer
+Mounting Engine plugin AndroidMoviePlayer
+Mounting Engine plugin AndroidDeviceProfileSelector
+Mounting Engine plugin AndroidPermission
+Mounting Engine plugin AppleMoviePlayer
+Mounting Engine plugin AppleImageUtils
+Mounting Engine plugin AssetTags
+Mounting Engine plugin ArchVisCharacter
+Mounting Engine plugin AudioCapture
+Mounting Engine plugin AudioModulation
+Mounting Engine plugin AudioSynesthesia
+Mounting Engine plugin AudioWidgets
+Mounting Engine plugin CableComponent
+Mounting Engine plugin ChunkDownloader
+Mounting Engine plugin CustomMeshComponent
+Mounting Engine plugin DataRegistry
+Mounting Engine plugin ExampleDeviceProfileSelector
+Mounting Engine plugin GameplayAbilities
+Mounting Engine plugin GeometryCache
+Mounting Engine plugin GeometryProcessing
+Mounting Engine plugin GoogleCloudMessaging
+Mounting Engine plugin HairStrands
+Mounting Engine plugin GooglePAD
+Mounting Engine plugin IOSDeviceProfileSelector
+Mounting Engine plugin LinuxDeviceProfileSelector
+Mounting Engine plugin LocationServicesBPLibrary
+Mounting Engine plugin MeshModelingToolset
+Mounting Engine plugin Metasound
+Mounting Engine plugin MobilePatchingUtils
+Mounting Engine plugin ProceduralMeshComponent
+Mounting Engine plugin PropertyAccessEditor
+Mounting Engine plugin ReplicationGraph
+Mounting Engine plugin SignificanceManager
+Mounting Engine plugin SoundFields
+Mounting Engine plugin SoundUtilities
+Mounting Engine plugin Spatialization
+Mounting Engine plugin Synthesis
+Mounting Engine plugin WebMMoviePlayer
+Mounting Engine plugin WindowsDeviceProfileSelector
+Mounting Engine plugin WindowsMoviePlayer
+Mounting Engine plugin ContentBrowserAssetDataSource
+Mounting Engine plugin ContentBrowserFileDataSource
+Mounting Engine plugin ContentBrowserClassDataSource
+Mounting Engine plugin InterchangeEditor
+Mounting Engine plugin Interchange
+Mounting Engine plugin OnlineSubsystemGooglePlay
+Mounting Engine plugin OnlineSubsystemIOS
+Mounting Engine plugin OnlineServices
+Mounting Engine plugin OnlineServicesNull
+Mounting Engine plugin OnlineServicesOSSAdapter
+Mounting Engine plugin OnlineServicesEOS
+Mounting Engine plugin EOSVoiceChat
+Mounting Engine plugin SQLiteCore
+Mounting Engine plugin SteamShared
+Mounting Engine plugin SteamSockets
+Mounting Engine plugin WinDualShock
+Mounting Project plugin AsyncMixin
+Mounting Project plugin CommonGame
+Mounting Project plugin GameSubtitles
+Mounting Project plugin CommonUser
+Mounting Project plugin CommonLoadingScreen
+Mounting Project plugin LyraExampleContent
+Mounting Project plugin LyraExtTool
+Mounting Project plugin GameSettings
+Mounting Project plugin PocketWorlds
+Mounting Project plugin UIExtension
+Mounting Project plugin GameplayMessageRouter
+Mounting Project plugin ModularGameplayActors
+FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+FPackageName: Mount point added: '../../Plugins/Animation/AnimationLocomotionLibrary/Content/' mounted to '/AnimationLocomotionLibrary/'
+FPackageName: Mount point added: '../../Plugins/Animation/AnimationWarping/Content/' mounted to '/AnimationWarping/'
+FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+FPackageName: Mount point added: '../../Plugins/Compositing/OpenColorIO/Content/' mounted to '/OpenColorIO/'
+FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+FPackageName: Mount point added: '../../Plugins/Experimental/CommonUI/Content/' mounted to '/CommonUI/'
+FPackageName: Mount point added: '../../Plugins/Experimental/ControlFlows/Content/' mounted to '/ControlFlows/'
+FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+FPackageName: Mount point added: '../../Plugins/Experimental/GeometryScripting/Content/' mounted to '/GeometryScripting/'
+FPackageName: Mount point added: '../../Plugins/Experimental/Landmass/Content/' mounted to '/Landmass/'
+FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+FPackageName: Mount point added: '../../Plugins/Experimental/RemoteSession/Content/' mounted to '/RemoteSession/'
+FPackageName: Mount point added: '../../Plugins/Experimental/Volumetrics/Content/' mounted to '/Volumetrics/'
+FPackageName: Mount point added: '../../Plugins/Experimental/Water/Content/' mounted to '/Water/'
+FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+FPackageName: Mount point added: '../../Plugins/MovieScene/MoviePipelineMaskRenderPass/Content/' mounted to '/MoviePipelineMaskRenderPass/'
+FPackageName: Mount point added: '../../Plugins/MovieScene/MovieRenderPipeline/Content/' mounted to '/MovieRenderPipeline/'
+FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+FPackageName: Mount point added: '../../Plugins/Runtime/AudioModulation/Content/' mounted to '/AudioModulation/'
+FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+FPackageName: Mount point added: '../../Plugins/Runtime/AudioWidgets/Content/' mounted to '/AudioWidgets/'
+FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+FPackageName: Mount point added: '../../Plugins/Runtime/Metasound/Content/' mounted to '/Metasound/'
+FPackageName: Mount point added: '../../Plugins/Runtime/SoundUtilities/Content/' mounted to '/SoundUtilities/'
+FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+FPackageName: Mount point added: '../../../../../../Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Plugins/LyraExampleContent/Content/' mounted to '/LyraExampleContent/'
+FPackageName: Mount point added: '../../../../../../Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Plugins/LyraExtTool/Content/' mounted to '/LyraExtTool/'
+FPackageName: Mount point added: '../../../../../../Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Plugins/PocketWorlds/Content/' mounted to '/PocketWorlds/'
+Source control is disabled
+Source control is disabled
+PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+Failed to load '../../../../../../Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Binaries/Win64/EOSSDK-Win64-Shipping.dll' (GetLastError=126)
+File '../../../../../../Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Binaries/Win64/EOSSDK-Win64-Shipping.dll' does not exist
+Using libcurl 7.55.1-DEV
+ - built for x86_64-pc-win32
+ - supports SSL with OpenSSL/1.1.1
+ - supports HTTP deflate (compression) using libz 1.2.8
+ - other features:
+     CURL_VERSION_SSL
+     CURL_VERSION_LIBZ
+     CURL_VERSION_IPV6
+     CURL_VERSION_ASYNCHDNS
+     CURL_VERSION_LARGEFILE
+     CURL_VERSION_IDN
+ CurlRequestOptions (configurable via config and command line):
+ - bVerifyPeer = true  - Libcurl will verify peer certificate
+ - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+ - bDontReuseConnections = false  - Libcurl will reuse connections
+ - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+ - LocalHostAddr = Default
+ - BufferSize = 65536
+WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+OSS: Created online subsystem instance for: NULL
+OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+Build: ++UE5+Release-5.0-CL-20979098
+Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+Net CL: 19505902
+OS: Windows 11 (21H2) [10.0.22000.1219] (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+Compiled (64-bit): Jul  7 2022 02:16:06
+Compiled with Visual C++: 19.29.30138.00
+Build Configuration: Development
+Branch Name: ++UE5+Release-5.0
+Command Line: 
+Base Directory: D:/Program Files (x86)/Epic Games/UE_5.0/Engine/Binaries/Win64/
+Allocator: Mimalloc
+Installed Engine Build: 1
+Number of dev versions registered: 34
+  Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+  Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+  Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+  Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+  Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+  Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+  Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+  Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+  Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+  Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+  Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+  Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+  Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+  Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+  Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+  Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+  Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+  Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+  Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+  FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+  FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+  Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+  Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+  Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+  Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+  Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+  Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+  Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+  UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+  UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+  UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+  UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+  Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+  UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+Object subsystem initialized
+CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+CVar [[r.SupportMaterialLayers:1]] deferred - dummy variable created
+Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+Aftermath initialized
+Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+Found D3D12 adapter 0: NVIDIA GeForce RTX 2060 (Max supported Feature Level 12_1, shader model 6.6)
+Adapter has 5968MB of dedicated video memory, 0MB of dedicated system memory, and 8098MB of shared system memory, 2 output[s]
+Found D3D12 adapter 1: Intel(R) UHD Graphics 630 (Max supported Feature Level 12_1, shader model 6.6)
+Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8098MB of shared system memory, 0 output[s]
+Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8098MB of shared system memory, 0 output[s]
+Found D3D12 adapter 3: Intel(R) UHD Graphics 630 (Max supported Feature Level 12_1, shader model 6.6)
+Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8098MB of shared system memory, 0 output[s]
+Chosen D3D12 Adapter Id = 0
+Selected Device Profile: [WindowsEditor]
+Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+Platform has ~ 16 GB [16983539712 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+Going up to parent DeviceProfile [Windows]
+Going up to parent DeviceProfile []
+Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+Applying CVar settings from Section [ConsoleVariables] File [Engine]
+CVar [[gpad.DefaultLeftStickInnerDeadZone:0.24]] deferred - dummy variable created
+CVar [[gpad.DefaultRightStickInnerDeadZone:0.27]] deferred - dummy variable created
+Applying CVar settings from Section [ConsoleVariables] File [D:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Saved/Config/WindowsEditor/Editor.ini]
+Computer: PORTY
+User: sergi
+CPU Page size=4096, Cores=6
+High frequency timer resolution =10.000000 MHz
+Memory total: Physical=15.8GB (16GB approx)
+Platform Memory Stats for WindowsEditor
+Process Physical Memory: 287.74 MB used, 289.67 MB peak
+Process Virtual Memory: 240.44 MB used, 240.44 MB peak
+Physical Memory: 11558.20 MB used,  4638.57 MB free, 16196.77 MB total
+Virtual Memory: 18448.08 MB used,  17204.68 MB free, 35652.77 MB total
+Metadata set : extradevelopmentmemorymb="0"
+WindowsPlatformFeatures enabled
+Physics initialised using underlying interface: Chaos
+Using OS detected language (es-MX).
+Using OS detected locale (es-MX).
+Failed to read file '../../../../../../Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/Game/Game.locmeta' error.
+LocMeta '../../../../../../Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/Game/Game.locmeta' could not be opened for reading!
+LocRes '../../../Engine/Content/Localization/Editor/es-MX/Editor.locres' could not be opened for reading!
+LocRes '../../../Engine/Content/Localization/EditorTutorials/es-MX/EditorTutorials.locres' could not be opened for reading!
+LocRes '../../../Engine/Content/Localization/Keywords/es-MX/Keywords.locres' could not be opened for reading!
+LocRes '../../../Engine/Content/Localization/Category/es-MX/Category.locres' could not be opened for reading!
+LocRes '../../../Engine/Content/Localization/ToolTips/es-MX/ToolTips.locres' could not be opened for reading!
+LocRes '../../../Engine/Content/Localization/PropertyNames/es-MX/PropertyNames.locres' could not be opened for reading!
+LocRes '../../../Engine/Content/Localization/Engine/es-MX/Engine.locres' could not be opened for reading!
+LocRes '../../../Engine/Plugins/Online/OnlineFramework/Content/Localization/OnlineFramework/es-MX/OnlineFramework.locres' could not be opened for reading!
+LocRes '../../../Engine/Plugins/Online/OnlineSubsystemSteam/Content/Localization/OnlineSubsystemSteam/es-MX/OnlineSubsystemSteam.locres' could not be opened for reading!
+LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/es-MX/OnlineSubsystemUtils.locres' could not be opened for reading!
+LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/es-MX/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/es-MX/OnlineSubsystemIOS.locres' could not be opened for reading!
+Setting process to per monitor DPI aware
+Available input methods:
+  - Inglés (Estados Unidos) - (Keyboard).
+  - Español (México) - (Keyboard).
+  - Español (México) - (Keyboard).
+Activated input method: Español (México) - (Keyboard).
+New Slate User Created.  User Index 0, Is Virtual User: 0
+Slate User Registered.  User Index 0, Is Virtual User: 0
+InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[Aftermath] Aftermath crash dumping enabled
+Emitting draw events for PIX profiling.
+[Aftermath] Aftermath enabled and primed
+[Aftermath] Aftermath resource tracking enabled
+ID3D12Device1 is supported.
+ID3D12Device2 is supported.
+ID3D12Device3 is supported.
+ID3D12Device4 is supported.
+ID3D12Device5 is supported.
+ID3D12Device6 is supported.
+ID3D12Device7 is supported.
+D3D12 ray tracing tier 1.0 is supported.
+D3D12 ray tracing tier 1.1 is supported.
+Mesh shader tier 1.0 is supported
+AtomicInt64OnTypedResource is supported
+AtomicInt64OnGroupShared is supported
+AtomicInt64OnDescriptorHeapResource is supported
+Shader Model 6.6 atomic64 is supported
+[GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+    GPU DeviceId: 0x1f11 (for the marketing name, search the web for "GPU Device Id")
+Attached monitors:
+    resolution: 1920x1080, work area: (0, 0) -> (1920, 1032), device: '\\.\DISPLAY2' [PRIMARY]
+    resolution: 1920x1080, work area: (-1920, 0) -> (0, 1032), device: '\\.\DISPLAY1'
+Found 2 attached monitors.
+EnumDisplayDevices:
+   0. 'Intel(R) UHD Graphics 630' (P:0 D:1), name: '\\.\DISPLAY1'
+   1. 'Intel(R) UHD Graphics 630' (P:1 D:1), name: '\\.\DISPLAY2'
+   2. 'Intel(R) UHD Graphics 630' (P:0 D:0), name: '\\.\DISPLAY3'
+   3. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY4'
+   4. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY5'
+   5. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY6'
+   6. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY7'
+   7. 'LuminonCore IDDCX Adapter' (P:0 D:0), name: '\\.\DISPLAY8'
+   8. 'LuminonCore IDDCX Adapter' (P:0 D:0), name: '\\.\DISPLAY9'
+   9. 'LuminonCore IDDCX Adapter' (P:0 D:0), name: '\\.\DISPLAY10'
+   10. 'LuminonCore IDDCX Adapter' (P:0 D:0), name: '\\.\DISPLAY11'
+   11. 'LuminonCore IDDCX Adapter' (P:0 D:0), name: '\\.\DISPLAY12'
+   12. 'LuminonCore IDDCX Adapter' (P:0 D:0), name: '\\.\DISPLAY13'
+   13. 'LuminonCore IDDCX Adapter' (P:0 D:0), name: '\\.\DISPLAY14'
+   14. 'LuminonCore IDDCX Adapter' (P:0 D:0), name: '\\.\DISPLAY15'
+   15. 'LuminonCore IDDCX Adapter' (P:0 D:0), name: '\\.\DISPLAY16'
+   16. 'LuminonCore IDDCX Adapter' (P:0 D:0), name: '\\.\DISPLAY17'
+   17. 'LuminonCore IDDCX Adapter' (P:0 D:0), name: '\\.\DISPLAY18'
+   18. 'LuminonCore IDDCX Adapter' (P:0 D:0), name: '\\.\DISPLAY19'
+   19. 'LuminonCore IDDCX Adapter' (P:0 D:0), name: '\\.\DISPLAY20'
+   20. 'LuminonCore IDDCX Adapter' (P:0 D:0), name: '\\.\DISPLAY21'
+   21. 'LuminonCore IDDCX Adapter' (P:0 D:0), name: '\\.\DISPLAY22'
+   22. 'LuminonCore IDDCX Adapter' (P:0 D:0), name: '\\.\DISPLAY23'
+DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+    Adapter Name: NVIDIA GeForce RTX 2060
+  Driver Version: 526.98 (internal:31.0.15.2698, unified:526.98)
+     Driver Date: 11-13-2022
+Texture pool is 3276 MB (70% of 4680 MB)
+Async texture creation enabled
+RHI has support for 64 bit atomics
+GeForceNow SDK initialized: 0
+Running Turnkey SDK detection: ' -ScriptsForProject="D:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/LyraStarterGame.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Intermediate/TurnkeyReport_0.log" -log="D:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Intermediate/TurnkeyLog_0.log" -project="D:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/LyraStarterGame.uproject"  -platform=all'
+Running Serialized UAT: [ cmd.exe /c ""D:/Program Files (x86)/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/LyraStarterGame.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Intermediate/TurnkeyReport_0.log" -log="D:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Intermediate/TurnkeyLog_0.log" -project="D:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/LyraStarterGame.uproject"  -platform=all" ]
+ETC2 Texture loading DLL: TextureConverter.dll
+Oodle Texture TFO init; latest sdk version = 2.9.5
+Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+Loaded TargetPlatform 'Android'
+Loaded TargetPlatform 'Android_ASTC'
+Loaded TargetPlatform 'Android_DXT'
+Loaded TargetPlatform 'Android_ETC2'
+Loaded TargetPlatform 'AndroidClient'
+Loaded TargetPlatform 'Android_ASTCClient'
+Loaded TargetPlatform 'Android_DXTClient'
+Loaded TargetPlatform 'Android_ETC2Client'
+Loaded TargetPlatform 'Android_Multi'
+Loaded TargetPlatform 'Android_MultiClient'
+Loaded TargetPlatform 'HoloLens'
+Loaded TargetPlatform 'HoloLensClient'
+Loaded TargetPlatform 'IOS'
+Loaded TargetPlatform 'IOSClient'
+Loaded TargetPlatform 'Linux'
+Loaded TargetPlatform 'LinuxEditor'
+Loaded TargetPlatform 'LinuxServer'
+Loaded TargetPlatform 'LinuxClient'
+Loaded TargetPlatform 'LinuxArm64'
+Loaded TargetPlatform 'LinuxArm64Server'
+Loaded TargetPlatform 'LinuxArm64Client'
+Loaded TargetPlatform 'TVOS'
+Loaded TargetPlatform 'TVOSClient'
+Loaded TargetPlatform 'Windows'
+Loaded TargetPlatform 'WindowsEditor'
+Loaded TargetPlatform 'WindowsServer'
+Loaded TargetPlatform 'WindowsClient'
+Building Assets For WindowsEditor
+Lib vorbis DLL was dynamically loaded.
+Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+Loaded format module AudioFormatADPCM
+  ADPCM
+  PCM
+Loaded format module AudioFormatBink
+  BINKA
+Loaded format module AudioFormatOgg
+  OGG
+Loaded format module AudioFormatOpus
+  OPUS
+Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+Loaded format module MetalShaderFormat
+  SF_METAL
+  SF_METAL_MRT
+  SF_METAL_TVOS
+  SF_METAL_MRT_TVOS
+  SF_METAL_SM5
+  SF_METAL_MACES3_1
+  SF_METAL_MRT_MAC
+Loaded format module ShaderFormatD3D
+  PCD3D_SM6
+  PCD3D_SM5
+  PCD3D_ES31
+  D3D_ES3_1_HOLOLENS
+Loaded format module ShaderFormatOpenGL
+  GLSL_150_ES31
+  GLSL_ES3_1_ANDROID
+Loaded format module ShaderFormatVectorVM
+  VVM_1_0
+Loaded format module VulkanShaderFormat
+  SF_VULKAN_SM5
+  SF_VULKAN_ES31_ANDROID
+  SF_VULKAN_ES31
+  SF_VULKAN_SM5_ANDROID
+Ray tracing is disabled. Reason: r.RayTracing=0.
+Compiling shader autogen file: ../../../../../../Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+Failed to delete old shader autogen file: ../../../../../../Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+Shader autogen file written: ../../../../../../Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+Compiling shader autogen file: ../../../../../../Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+Failed to delete old shader autogen file: ../../../../../../Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+Shader autogen file written: ../../../../../../Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+Unable to find inner node Pak for hierarchy Hierarchy.
+FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node CompressedPak for hierarchy Hierarchy.
+../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+Speed tests for C:/Users/sergi/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+Performance to C:/Users/sergi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=282.73MBs, RandomWriteSpeed=233.30MBs. Assigned SpeedClass 'Local'
+Using Local data cache path C:/Users/sergi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+Shared data cache path not found in *engine.ini, will not use an Shared cache.
+Unable to find inner node Shared for hierarchy Hierarchy.
+VirtualizationSystem name found in ini file: None
+FNullVirtualizationSystem mounted, virtualization will be disabled
+Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Intermediate/Shaders/WorkingDirectory/11212/).
+Cleaned the shader compiler working directory 'C:/Users/sergi/AppData/Local/Temp/UnrealShaderWorkingDir/EFBA61D04F6A85DDE9AB64BE73ECB200/'.
+Cannot use XGE Controller as Incredibuild is not installed on this machine.
+Using Local Shader Compiler with 9 workers.
+Completed SDK detection: ExitCode = 0
+Using FreeType 2.10.0
+SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+FShaderCompileThreadRunnable::WriteNewTasks()() took too long (1.009 seconds, threshold is 0.300 s), will parallelize next time.
+FAssetRegistry took 0.0173 seconds to start up
+EditorDomain is Disabled
+UsePackageTrailer: 'false'
+Texture Encode Speed: FinalIfAvailable (editor).
+Selected Device Profile: [WindowsEditor]
+Active device profile: [000005E8CEBD3800][000005E8CEBB0000 50] WindowsEditor
+Profiles: [000005E8CEBD32C0][000005E89927C800 50] Windows, [000005E8CEBD3800][000005E8CEBB0000 50] WindowsEditor, [000005E8CEBD2F40][000005E8CEBB5000 50] WindowsServer, [000005E8CEBD2D80][000005E8CEBB7800 50] WindowsClient, [000005E8CEBD4B40][000005E8CE8F5400 50] Mobile, [000005E8CEBD4D00][000005E8CEBB2800 50] IOS, [000005E8CEBD5080][000005E8CEBBA000 50] IOS_Low, [000005E8CEBD5400][000005E8CEBBC800 50] iPadAir2, [000005E8CEBD2680][000005E8CEB70000 50] IOS_Mid, [000005E8CEBD0C40][000005E8CEB72800 50] iPadAir3, [000005E8CEBD01C0][000005E8CEB77800 50] iPadAir4, [000005E8CEBD24C0][000005E8CEB7A000 50] iPadMini4, [000005E8CEBD1180][000005E8CEB7C800 50] iPadMini5, [000005E8CEBD6040][000005E8CEB75000 50] IOS_High, [000005E8CEBD63C0][000005E8CEB30000 50] iPadMini6, [000005E8CEBD3640][000005E8CEB35000 50] iPodTouch7, [000005E8CEBD4600][000005E8CEB37800 50] iPhone6S, [000005E8CEBD3D40][000005E8CEB3A000 50] iPhone6SPlus, [000005E8CEBD4980][000005E8CEB3C800 50] iPhone7, [000005E8CEBD0540][000005E8CEB32800 50] iPhone7Plus, [000005E8CEBD5E80][000005E8CEB82800 50] iPhoneSE, [000005E8CEBD47C0][000005E8CEB85000 50] iPhone8, [000005E8CEBD2140][000005E8CEB87800 50] iPhone8Plus, [000005E8CEBD1880][000005E8CEB8A000 50] iPhoneX, [000005E8CEBD1C00][000005E8CEB8C800 50] iPhoneXS, [000005E8CEBD1A40][000005E8CEB80000 50] iPhoneXSMax, [000005E8CEBD3B80][000005E8CEB42800 50] iPhoneXR, [000005E8CEBD6C80][000005E8CEB45000 50] iPhone11, [000005E8CEBD1500][000005E8CEB47800 50] iPhone11Pro, [000005E8CEBD08C0][000005E8CEB4A000 50] iPhone11ProMax, [000005E8CEBD0000][000005E8CEB4C800 50] iPhoneSE2, [000005E8CEBD6AC0][000005E8CEB40000 50] iPhone12Mini, [000005E8CEBD2300][000005E8CEBE2800 50] iPhone12, [000005E8CEBD55C0][000005E8CEBE5000 50] iPhone12Pro, [000005E8CEBD2A00][000005E8CEBE7800 50] iPhone12ProMax, [000005E8CEBD8180][000005E8CEBE0000 50] IOS_Epic, [000005E8CEBD8500][000005E8CEBEA000 50] iPhone13Mini, [000005E8CEBD5240][000005E8CEBEC800 50] iPhone13, [000005E8CEBD3F00][000005E8CEBF2800 50] iPhone13Pro, [000005E8CEBD0E00][000005E8CEBF5000 50] iPhone13ProMax, [000005E8CEBD2BC0][000005E8CEBF7800 50] iPadPro, [000005E8CEBD7380][000005E8CEBFA000 50] iPadPro105, [000005E8CEBD8C00][000005E8CEBFC800 50] iPadPro129, [000005E8CEBD6740][000005E8CEBF0000 50] iPadPro97, [000005E8CEBD7540][000005E8CEC02800 50] iPadPro2_129, [000005E8CEBD4280][000005E8CEC05000 50] iPad5, [000005E8CEBD0700][000005E8CEC07800 50] iPad6, [000005E8CEBD7700][000005E8CEC0A000 50] iPad7, [000005E8CEBD0380][000005E8CEC0C800 50] iPad8, [000005E8CEBD71C0][000005E8CEC00000 50] iPad9, [000005E8CEBD7A80][000005E8CEC22800 50] iPadPro11, [000005E8CEBD7E00][000005E8CEC25000 50] iPadPro2_11, [000005E8CEBD5940][000005E8CEC27800 50] iPadPro3_11, [000005E8CEBD7000][000005E8CEC2A000 50] iPadPro3_129, [000005E8CEBD1F80][000005E8CEC2C800 50] iPadPro4_129, [000005E8CEBD39C0][000005E8CEC20000 50] iPadPro5_129, [000005E8CEBD0FC0][000005E8CEC32800 50] AppleTV, [000005E8CEBD8340][000005E8CEC35000 50] AppleTV4K, [000005E8CEBD6580][000005E8CEC37800 50] TVOS, [000005E8CEBDAB80][000005E8CEC30000 50] Mac, [000005E8CEBDAF00][000005E8CEC3A000 50] MacEditor, [000005E8CEBD9D80][000005E8CEC3C800 50] MacClient, [000005E8CEBD40C0][000005E8CEC42800 50] MacServer, [000005E8CEBD6E40][000005E8CEC40000 50] Linux, [000005E8CEBDBB40][000005E8CEC45000 50] LinuxEditor, [000005E8CEBD16C0][000005E8CEC4A000 50] LinuxArm64Editor, [000005E8CEBD9300][000005E8CEC4C800 50] LinuxArm64, [000005E8CEBD7FC0][000005E8CEC47800 50] LinuxClient, [000005E8CEBDA2C0][000005E8CEC52800 50] LinuxArm64Client, [000005E8CEBD5CC0][000005E8CEC55000 50] LinuxServer, [000005E8CEBD9840][000005E8CEC57800 50] LinuxArm64Server, [000005E8CEBD3100][000005E8CEC5A000 50] Android, [000005E8CEBD4440][000005E8CEC5C800 50] Android_Preview_OpenGL, [000005E8CEBDB440][000005E8CEC50000 50] Android_Preview_Vulkan, [000005E8CEBDB280][000005E8CEC62800 50] Android_Low, [000005E8CEBD9BC0][000005E8CEC65000 50] Android_Mid, [000005E8CEBD7C40][000005E8CEC67800 50] Android_High, [000005E8CEBDAD40][000005E8CEC6A000 50] Android_Default, [000005E8CEBD9F40][000005E8CEC6C800 50] Android_Adreno4xx, [000005E8CEBD9140][000005E8CEC60000 50] Android_Adreno5xx_Low, [000005E8CEBDB600][000005E8CEC82800 50] Android_Adreno5xx, [000005E8CEBD4EC0][000005E8CEC85000 50] Android_Adreno6xx, [000005E8CEBDA640][000005E8CEC87800 50] Android_Adreno6xx_Vulkan, [000005E8CEBD94C0][000005E8CEC8A000 50] Android_Adreno7xx, [000005E8CEBD86C0][000005E8CEC8C800 50] Android_Adreno7xx_Vulkan, [000005E8CEBDB980][000005E8CEC80000 50] Android_Mali_T6xx, [000005E8CEBD78C0][000005E8CEC12800 50] Android_Mali_T7xx, [000005E8CEBD1DC0][000005E8CEC15000 50] Android_Mali_T8xx, [000005E8CEBD6900][000005E8CEC17800 50] Android_Mali_G71, [000005E8CEBD5B00][000005E8CEC1A000 50] Android_Mali_G72, [000005E8CEBD2840][000005E8CEC1C800 50] Android_Mali_G72_Vulkan, [000005E8CEBDBD00][000005E8CEC10000 50] Android_Mali_G76, [000005E8CEBD8A40][000005E8CEC92800 50] Android_Mali_G76_Vulkan, [000005E8CEBDCB00][000005E8CEC95000 50] Android_Mali_G77, [000005E8CEBDC080][000005E8CEC97800 50] Android_Mali_G77_Vulkan, [000005E8CEBDC240][000005E8CEC9A000 50] Android_Mali_G78, [000005E8CEBD9A00][000005E8CEC9C800 50] Android_Mali_G78_Vulkan, [000005E8CEBDC780][000005E8CEC90000 50] Android_Mali_G710, [000005E8CEBD6200][000005E8CECA2800 50] Android_Mali_G710_Vulkan, [000005E8CEBDC400][000005E8CECA5000 50] Android_Xclipse_920, [000005E8CEBDCCC0][000005E8CECA7800 50] Android_Xclipse_920_Vulkan, [000005E8CEBDC5C0][000005E8CECAA000 50] Android_Vulkan_SM5, [000005E8CEBD8DC0][000005E8CECAC800 50] Android_PowerVR_G6xxx, [000005E8CEBDD3C0][000005E8CECA0000 50] Android_PowerVR_GT7xxx, [000005E8CEBDC940][000005E8CECB2800 50] Android_PowerVR_GE8xxx, [000005E8CEBDA100][000005E8CECB5000 50] Android_PowerVR_GM9xxx, [000005E8CEBDB7C0][000005E8CECB7800 50] Android_PowerVR_GM9xxx_Vulkan, [000005E8CEBDD200][000005E8CECBA000 50] Android_TegraK1, [000005E8CEBDDC80][000005E8CECBC800 50] Android_Unknown_Vulkan, [000005E8CEBDD900][000005E8CECB0000 50] Oculus_Quest, [000005E8CEBDEA80][000005E8CECC2800 50] Oculus_Quest2, [000005E8CEBDE000][000005E8CECC5000 50] HoloLens, 
+Metadata set : deviceprofile="WindowsEditor"
+Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO On Lambda=30, Effort=Normal
+Missing cached shadermap for WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 94D8CD25A36B1FF97C255B2F5E5BA88E3609BDDA), compiling. Is special engine material.
+Missing cached shadermap for DefaultDeferredDecalMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 9239F006F6A754119A0BF497814EDB1D0016BAA7), compiling. 
+Missing cached shadermap for DefaultLightFunctionMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 99128E693C26A485FE5CAD2E5D013549EDF74E33), compiling. 
+C:/Users/sergi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.020 and deleted 0 file(s) with total size 0 MiB.
+Worker (1/9) finished batch of 10 jobs in 262.634s, FClusteredShadingPS [WorkerTime=257.358s], FDistanceFieldShadowingCS [WorkerTime=0.979s], FHWRasterizeVS [WorkerTime=0.975s], FHWRasterizeVS [WorkerTime=0.809s], TVirtualTextureVSBaseColorNormalRoughness [WorkerTime=0.721s], FLumenCardVS [WorkerTime=0.465s], TVirtualTexturePSBaseColorNormalRoughness [WorkerTime=0.451s], TVirtualTexturePSBaseColor [WorkerTime=0.448s], FHairVisibilityPrimitiveIdCompactionCS [WorkerTime=0.213s], FHairInterpolationCS [WorkerTime=0.133s]
+Worker (3/9) finished batch of 10 jobs in 168.081s, FClusteredShadingPS [WorkerTime=162.479s], FCapsuleShadowingCS [WorkerTime=1.604s], FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs [WorkerTime=0.931s], FAmbientOcclusionCS [WorkerTime=0.924s], FAmbientOcclusionPS [WorkerTime=0.615s], FGTAOHorizonSearchAndIntegrateCS [WorkerTime=0.553s], FDistanceFieldShadowingCS [WorkerTime=0.372s], FObjectCullVS [WorkerTime=0.234s], FCapsuleShadowingUpsampleVS [WorkerTime=0.191s], NiagaraFillIntBufferCS [WorkerTime=0.115s]
+Worker (6/9) finished batch of 10 jobs in 71.279s, FPersistentClusterCull_CS [WorkerTime=20.754s], FPersistentClusterCull_CS [WorkerTime=14.490s], FPersistentClusterCull_CS [WorkerTime=13.709s], FPersistentClusterCull_CS [WorkerTime=12.921s], FMicropolyRasterizeCS [WorkerTime=2.512s], FInstanceCull_CS [WorkerTime=2.445s], FDiaphragmDOFGatherCS [WorkerTime=2.139s], FVolumetricFogLightScatteringCS [WorkerTime=1.474s], FDiaphragmDOFRecombineCS [WorkerTime=0.522s], FInitArgs_CS [WorkerTime=0.189s]
+Worker (1/9) finished batch of 10 jobs in 72.506s, FPersistentClusterCull_CS [WorkerTime=20.081s], FPersistentClusterCull_CS [WorkerTime=18.243s], FPersistentClusterCull_CS [WorkerTime=11.693s], FPersistentClusterCull_CS [WorkerTime=9.774s], FInstanceCullVSM_CS [WorkerTime=3.324s], FInstanceCullVSM_CS [WorkerTime=3.114s], FMicropolyRasterizeCS [WorkerTime=2.424s], FMicropolyRasterizeCS [WorkerTime=2.036s], FVolumetricFogLightScatteringCS [WorkerTime=1.472s], FTonemapPS [WorkerTime=0.238s]
+Missing cached shadermap for DefaultPostProcessMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 23D647C0622C22A0C1C98A1A1E6E11FC93B5AF59), compiling. 
+Missing cached shadermap for MatineeCam_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 8BC6AF03CEEEAE547C8E42B079079782FCFF2B97), compiling. 
+Using QuadricMeshReduction for automatic static mesh reduction
+Using SimplygonMeshReduction for automatic skeletal mesh reduction
+Using ProxyLODMeshReduction for automatic mesh merging
+No distributed automatic mesh merging module available
+No distributed automatic mesh merging module available
+LyraStarterGame 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 838218819)
+Missing cached shadermap for HelpActorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: E2162792E87E094D0825B31485C4670691D7F659), compiling. 
+Missing cached shadermap for M_ChromeBall in PCD3D_SM5, Default, SM5 (DDC key hash: ED588A8D3586D3E49A3F7139122F5A2DA89BF9C8), compiling. 
+Missing cached shadermap for DefaultTextMaterialOpaque in PCD3D_SM5, Default, SM5 (DDC key hash: CD3E917DCF79011C128AFA12DA39788345C8DB25), compiling. 
+Missing cached shadermap for m_SimpleVolumetricCloud in PCD3D_SM5, Default, SM5 (DDC key hash: F227CB0D4EA55AB3FC50D6A6FED1C4B1142BC0CC), compiling. 
+Missing cached shadermap for WorldPartitionSpatialHashGridPreviewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: AAF60B780521B411887E3577143B1498C61020DE), compiling. 
+Border
+BreadcrumbButton
+Default
+Icons.Save
+Icons.Toolbar.Settings
+ListView
+SoftwareCursor_CardinalCross
+SoftwareCursor_Grab
+TableView.DarkRow
+TableView.Row
+TreeView
+Missing cached shadermap for Widget3DPassThrough in PCD3D_SM5, Default, SM5 (DDC key hash: B43349E2BE7BC79A2D36EEFFC73E9360979B26BE), compiling. 
+Missing cached shadermap for Widget3DPassThrough_Translucent in PCD3D_SM5, Default, SM5 (DDC key hash: F38952FA657F16A1734F4157383CA3D3BA99F833), compiling. 
+Missing cached shadermap for Widget3DPassThrough_Opaque in PCD3D_SM5, Default, SM5 (DDC key hash: DCB01CD2687F5CCDD5F210E5B56FD51CEF28E3F2), compiling. 
+Missing cached shadermap for Widget3DPassThrough_Opaque_OneSided in PCD3D_SM5, Default, SM5 (DDC key hash: EC3BDE90031E3B1024D77C44E1E2AB8D788492F9), compiling. 
+Missing cached shadermap for Widget3DPassThrough_Masked in PCD3D_SM5, Default, SM5 (DDC key hash: 57736EBD502262EFEED5B91E650240C942BEB0DB), compiling. 
+Missing cached shadermap for Widget3DPassThrough_Masked_OneSided in PCD3D_SM5, Default, SM5 (DDC key hash: 9E39277DADCBB5A0B43CA4591AC4442EED311AF8), compiling. 
+Missing cached shadermap for Widget3DCameraPassThrough_Opaque_OneSided in PCD3D_SM5, Default, SM5 (DDC key hash: 98DDBD49426A7ADB12458A86B3C651952602041B), compiling. 
+Missing cached shadermap for TransformGizmoMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 0162578EC9636753D87D7A2E998AD8FED6BC2385), compiling. 
+Missing cached shadermap for TranslucentTransformGizmoMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 313855A0120DFE236B1CCFCB6A61D17D7161E81E), compiling. 
+Missing cached shadermap for Main in PCD3D_SM5, Default, SM5 (DDC key hash: 825565E1C94B450F1B623264DADD997DA8EAC82A), compiling. 
+Missing cached shadermap for Xray in PCD3D_SM5, Default, SM5 (DDC key hash: 24F01C9E289F4419E712B41EA8D371947F79667A), compiling. 
+Missing cached shadermap for CineMat in PCD3D_SM5, Default, SM5 (DDC key hash: 624D3FAB003C7C12A5A19246B52259F82C83CF09), compiling. 
+Missing cached shadermap for M_SimpleOpaque in PCD3D_SM5, Default, SM5 (DDC key hash: 82392E1BC3B658C95F0C9B94092BD2BBA0940EB7), compiling. 
+Missing cached shadermap for M_SimpleUnlitTranslucent in PCD3D_SM5, Default, SM5 (DDC key hash: AF52EF7B0F6F75BF0103F92F85E33D215EBFEB96), compiling. 
+El control de código fuente está desactivado
+Missing cached shadermap for SkySphereMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 1C8F263CE9FFC5F86A2F8BD2081F78D955E5C701), compiling. 
+Missing cached shadermap for FloorPlaneMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 2276C2317730AF6FA0338BE81F6CA8C150EA3FF7), compiling. 
+El control de código fuente está desactivado
+El control de código fuente está desactivado
+Missing cached shadermap for LandscapeGizmo_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 53EEA909EF1776638607F35B7C1DA4767D4CC822), compiling. 
+Missing cached shadermap for LandscapeGizmoHeight_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7C4014133D348E9F709E0EC4286CB552FA521A10), compiling. 
+Missing cached shadermap for SplineEditorMeshMat in PCD3D_SM5, Default, SM5 (DDC key hash: AB39EBACC4A963626BFED9445B6650D3217B3070), compiling. 
+Building textures: /Water/Icons/WaterBodyIslandSprite.WaterBodyIslandSprite (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+Building textures: /Water/Icons/WaterBodyLakeSprite.WaterBodyLakeSprite (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+Building textures: /Water/Icons/WaterBodyCustomSprite.WaterBodyCustomSprite (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+Building textures: /Water/Icons/WaterBodyExclusionVolumeSprite.WaterBodyExclusionVolumeSprite (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+Building textures: /Water/Icons/WaterSprite.WaterSprite (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+Building textures: /Water/Icons/WaterBodyRiverSprite.WaterBodyRiverSprite (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+Building textures: /Water/Icons/WaterBodyOceanSprite.WaterBodyOceanSprite (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+Building textures: /Water/Icons/WaterZoneActorSprite.WaterZoneActorSprite (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+Generando la malla estática RiverMesh...
+Generando la malla estática LakeMesh...
+Missing cached shadermap for HairDebugMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 5057EAB5950B11A8541FEF2840402BCAC65AF1C7), compiling. 
+Built static mesh [0.38s] /Water/Meshes/LakeMesh.LakeMesh
+Built static mesh [0.38s] /Water/Meshes/RiverMesh.RiverMesh
+Missing cached shadermap for HairDefaultMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 6B4C4173D08F247D3F163045B523877C4B2CDF4E), compiling. 
+Missing cached shadermap for HairCardsDefaultMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: AAA9459A6F2594BBC2BCC752EED22219C5DC5EB8), compiling. 
+Missing cached shadermap for HairMeshesDefaultMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 38400A8119D1B2F24F610595EC62507E02C0CD59), compiling. 
+20925 objects as part of root set at end of initial load.
+5828192 out of 0 bytes used by permanent object pool.
+CloseDisregardForGC: 0/0 objects in disregard for GC pool
+Missing cached shadermap for M_Manip in PCD3D_SM5, Default, SM5 (DDC key hash: C5D579376F4506B7F559585B10340AE89F30F923), compiling. 
+Missing cached shadermap for DefaultSpriteMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: BB47E36F6994D21FA65B9900A4AC8411E15ADD11), compiling. 
+Missing cached shadermap for OpaqueUnlitSpriteMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 826C11F152841FE6C2B50DE3E9922091F7BEE5FC), compiling. 
+Missing cached shadermap for BaseColor in PCD3D_SM5, Default, SM5 (DDC key hash: 9A42BE96C6EE16C56F4368B207F54D9A0F16A42F), compiling. 
+Missing cached shadermap for CustomDepth in PCD3D_SM5, Default, SM5 (DDC key hash: BE74E9896A217AA0D7C6C7E49FD91EFBB2C1ABE8), compiling. 
+Missing cached shadermap for CustomStencil in PCD3D_SM5, Default, SM5 (DDC key hash: 3266453FF32B08BADFD68AB6CDF3BE112C757E70), compiling. 
+Missing cached shadermap for FinalImage in PCD3D_SM5, Default, SM5 (DDC key hash: 5B483AEB6CD99FD1E0597321673494F8285E692D), compiling. 
+Missing cached shadermap for LightingModel in PCD3D_SM5, Default, SM5 (DDC key hash: EA2901F264A487A49B5135562E3044E61E81518E), compiling. 
+Missing cached shadermap for MaterialAO in PCD3D_SM5, Default, SM5 (DDC key hash: 38F9E658EB90512B24BE97129B9546582B8B0456), compiling. 
+Missing cached shadermap for Metallic in PCD3D_SM5, Default, SM5 (DDC key hash: B9C318CC3B6202EFFB7A8EFE72CB104703D6B12A), compiling. 
+Missing cached shadermap for Opacity in PCD3D_SM5, Default, SM5 (DDC key hash: 12757FA6570A36E9D9AC2DBD37FD2DE5114C56DE), compiling. 
+Missing cached shadermap for Roughness in PCD3D_SM5, Default, SM5 (DDC key hash: 0A9B6347C2BBEF167B94AE5A677B7009E50FBDF4), compiling. 
+Missing cached shadermap for Anisotropy in PCD3D_SM5, Default, SM5 (DDC key hash: 962D2F17D0B3F85D4ADA2BD91099926ABE74B2C4), compiling. 
+Missing cached shadermap for SceneColor in PCD3D_SM5, Default, SM5 (DDC key hash: 4D668917FDCA3F09E93C494B0AB1B8ABA519A5AD), compiling. 
+Missing cached shadermap for SceneDepth in PCD3D_SM5, Default, SM5 (DDC key hash: CD69BFD7E800A5DA06BA9E4477C4FF9072D9E51B), compiling. 
+Missing cached shadermap for SeparateTranslucencyRGB in PCD3D_SM5, Default, SM5 (DDC key hash: 030B60056278E8BAF4DED85474E3D82066F18C8B), compiling. 
+Missing cached shadermap for SeparateTranslucencyA in PCD3D_SM5, Default, SM5 (DDC key hash: D09737D7C3308B04ED0876B90326C6B66622FFF8), compiling. 
+Missing cached shadermap for Specular in PCD3D_SM5, Default, SM5 (DDC key hash: F3E315061F4E6C6D7650091D474C71DF8DBDD7D1), compiling. 
+Missing cached shadermap for SubsurfaceColor in PCD3D_SM5, Default, SM5 (DDC key hash: A5F82B73A243CE83CA9E8589272E58E64DB44B3A), compiling. 
+Missing cached shadermap for WorldNormal in PCD3D_SM5, Default, SM5 (DDC key hash: 885A4EEB690DF40ADBA98B05FC7CC48161CBC4B8), compiling. 
+Missing cached shadermap for WorldTangent in PCD3D_SM5, Default, SM5 (DDC key hash: 49DECFCFB3D742696007D407544281B5321455AA), compiling. 
+Missing cached shadermap for AmbientOcclusion in PCD3D_SM5, Default, SM5 (DDC key hash: 47DBEE9BEDE3E11E7F770EDD34CD12865DDCB800), compiling. 
+Missing cached shadermap for CustomDepthWorldUnits in PCD3D_SM5, Default, SM5 (DDC key hash: 8F5D9B3BAA418028A9CF46CE471FF3A0BAC29A50), compiling. 
+Missing cached shadermap for SceneDepthWorldUnits in PCD3D_SM5, Default, SM5 (DDC key hash: E7F0873B1445EACFB0012AB4FD69C0FFD7443E39), compiling. 
+Missing cached shadermap for Velocity in PCD3D_SM5, Default, SM5 (DDC key hash: D72F8EC731D030863529967E3504653B4B98CA1B), compiling. 
+Missing cached shadermap for PreTonemapHDRColor in PCD3D_SM5, Default, SM5 (DDC key hash: 051B200DA6542E5BDDA3E0A91232361967657AEC), compiling. 
+Missing cached shadermap for PostTonemapHDRColor in PCD3D_SM5, Default, SM5 (DDC key hash: 5416A04BE8BB0123B6BCB98EB656A4317B92B985), compiling. 
+Using Python 3.9.7
+Initializing TcpMessaging bridge
+Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+Niagara Debugger Client Initialized | Session: 84C023FA44BBBBE97652A6AA09F64280 | Instance: 32CCB49643D215BA3D09FAB8CE5306B1 (PORTY-11212).
+Initialized Audio Modulation Parameter 'BitDepth'
+Initialized Audio Modulation Parameter 'HPFCutoffFrequency'
+Initialized Audio Modulation Parameter 'LowRateFrequency'
+Initialized Audio Modulation Parameter 'LPFCutoffFrequency'
+Initialized Audio Modulation Parameter 'Pan'
+Initialized Audio Modulation Parameter 'Pitch'
+Initialized Audio Modulation Parameter 'SampleRate'
+Initialized Audio Modulation Parameter 'TimeOfDay'
+Initialized Audio Modulation Parameter 'Volume'
+Audio Modulation Initialized
+UGameplayTagsManager::InitializeManager -  0.065 s
+Registering Engine Module Parameter Interfaces...
+MetaSound Engine Initialized
+Loading Steam SDK 1.51
+Steam SDK Loaded!
+Error al cargar '{FileName}': No puede encontrar el archivo
+Error al cargar '{FileName}': No puede encontrar el archivo
+Error al encontrar el objeto 'Object /Game/UI/Foundation/Materials/M_UI_Throbber_Base.M_UI_Throbber_Base'
+Error al cargar '{FileName}': No puede encontrar el archivo
+Error al cargar '{FileName}': No puede encontrar el archivo
+Error al encontrar el objeto 'Object /Game/UI/Foundation/RichTextData/CommonUIRichTextData.CommonUIRichTextData_C'
+Missing cached shadermap for VideoPlayerMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 0D9AE29A10BDE4B5ACD8FE52046B550E69E38B17), compiling. 
+Initialize
+OnSessionChanged
+Initialize
+OnSessionChanged
+Initialize
+OnSessionChanged
+Initialize
+OnSessionChanged
+El control de código fuente está desactivado
+El control de código fuente está desactivado
+El control de código fuente está desactivado
+Found projects:
+Missing cached shadermap for SpeedTreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: FF8E86C506F366166104378A8C55F8CBA5605585), compiling. 
+Missing cached shadermap for SpeedTreeBillboardMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 422D49B2A84F144E863024E2C68BA53DFD696AAC), compiling. 
+Missing cached shadermap for M_VolumeRenderSphereTracePP in PCD3D_SM5, Default, SM5 (DDC key hash: 730D501A470C3F5701D21B64449354ED811CB701), compiling. 
+Error al cargar '{FileName}': No puede encontrar el archivo
+Error al cargar '{FileName}': No puede encontrar el archivo
+Error al encontrar el objeto 'Object /Game/UI/Foundation/Text/TextStyle-Regular.TextStyle-Regular_C'
+Error al cargar '{FileName}': No puede encontrar el archivo
+Error al cargar '{FileName}': No puede encontrar el archivo
+Error al encontrar el objeto 'Object /Game/UI/Foundation/Buttons/ButtonStyle-Primary-M.ButtonStyle-Primary-M_C'
+OIDN starting up
+Missing cached shadermap for M_MoviePipelineRenderPreview in PCD3D_SM5, Default, SM5 (DDC key hash: C7BAC66C1EAAA7B4981F63E68A8372A0457E2795), compiling. 
+Missing cached shadermap for MoviePipeline_StencilCutout in PCD3D_SM5, Default, SM5 (DDC key hash: 0713D10D7974C8AED4B06647DD0597E4FB284D2C), compiling. 
+Missing cached shadermap for MovieRenderQueue_WorldDepth in PCD3D_SM5, Default, SM5 (DDC key hash: CBB5A07374E99FA2045539EF181BB35256BEB9B4), compiling. 
+Missing cached shadermap for MovieRenderQueue_MotionVectors in PCD3D_SM5, Default, SM5 (DDC key hash: E3B3F8C2EC2D343621D81A30AD7091B1C4BA5661), compiling. 
+Initializing EOSSDK Version:1.14.2-20976885
+UAndroidPermissionCallbackProxy::GetInstance
+No Audio Capture implementations found. Audio input will be silent.
+No Audio Capture implementations found. Audio input will be silent.
+Loaded 0 collections in 0.009850 seconds
+Scanning file cache for directory 'D:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Saved/Collections/' took 0.01s
+Scanning file cache for directory 'D:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Developers/sergi/Collections/' took 0.00s
+Scanning file cache for directory 'D:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Collections/' took 0.00s
+SteamSockets: Disabled due to no Steam OSS running.
+Missing cached shadermap for HighResScreenshot in PCD3D_SM5, Default, SM5 (DDC key hash: DC3BBFEDF04637F7B9B6F9F467CD85EC9AE413C3), compiling. 
+Missing cached shadermap for HighResScreenshotMask in PCD3D_SM5, Default, SM5 (DDC key hash: 57BD6BA3DDB1F0364827B88C026A900D386502F2), compiling. 
+Missing cached shadermap for HighResScreenshotCaptureRegion in PCD3D_SM5, Default, SM5 (DDC key hash: 97B7CC64C0AAF30E0B7C573930BEF6B83B78B934), compiling. 
+Initializing Engine...
+Initializing game features subsystem
+Initializing StylusInput subsystem.
+Missing cached shadermap for WireframeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: E056506F8DF44B01B22719C01D7722518F7E908D), compiling. Is special engine material.
+Missing cached shadermap for LevelColorationLitMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 449E013CF16530D325A8E471EA4762362E581071), compiling. Is special engine material.
+Missing cached shadermap for LevelColorationUnlitMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 9769B3B6655FF05CDF02358E3CE0B00B5BBC35D7), compiling. Is special engine material.
+Missing cached shadermap for MAT_LevelColorationLitLightmapUV in PCD3D_SM5, Default, SM5 (DDC key hash: 065BDAD2B665979DAFF6E61FF42D1A1F1C06CC23), compiling. Is special engine material.
+Missing cached shadermap for ShadedLevelColorationLitMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 8565BDA7B3D536D790EDA74007AE34F001F405AD), compiling. Is special engine material.
+Missing cached shadermap for ShadedLevelColorationUnlitMateri in PCD3D_SM5, Default, SM5 (DDC key hash: 221C70F37C0760ECCEC303D1707C2607C20434C7), compiling. Is special engine material.
+Missing cached shadermap for VertexColorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A707148B61BD58D4F8E7E8E7831B88290E669D56), compiling. 
+Missing cached shadermap for VertexColorViewMode_ColorOnly in PCD3D_SM5, Default, SM5 (DDC key hash: C12B5EA764428DC2F3AF0BBC562037B9EE4CA11C), compiling. 
+Missing cached shadermap for VertexColorViewMode_AlphaAsColor in PCD3D_SM5, Default, SM5 (DDC key hash: 6ADA18264A8BFD5F203C6E3B00894448096C3546), compiling. 
+Missing cached shadermap for VertexColorViewMode_RedOnly in PCD3D_SM5, Default, SM5 (DDC key hash: 8EC81013578D9C76D899CB640B8D9D212BF376B4), compiling. 
+Missing cached shadermap for VertexColorViewMode_GreenOnly in PCD3D_SM5, Default, SM5 (DDC key hash: 06966FA877D674026D44C87FEA1D8CE511C91CC9), compiling. 
+Missing cached shadermap for VertexColorViewMode_BlueOnly in PCD3D_SM5, Default, SM5 (DDC key hash: B8ABEB663D1156BC7D3A19CB323C9F210AF02401), compiling. 
+Missing cached shadermap for RemoveSurfaceMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: E32D714207E0F27A4380E82285BF678916ED607D), compiling. 
+Missing cached shadermap for DebugMeshMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 8D893910DCB0C7FD3E417FE7C572199E5F62A30D), compiling. 
+Missing cached shadermap for EmissiveMeshMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 7DC70DBEC726C5B6E125259AEF473F7867548FD0), compiling. 
+Missing cached shadermap for M_InvalidLightmapSettings in PCD3D_SM5, Default, SM5 (DDC key hash: 9ED29E605E605126EE5970F8944F6E604CBD396C), compiling. 
+Missing cached shadermap for GizmoMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A8BA3535B56B4E96452ACF29B78A9A9D638104C6), compiling. 
+Missing cached shadermap for PhAT_JointLimitMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 875655E4A78027F1088BDDB37D5FF55742A519CE), compiling. 
+Missing cached shadermap for GeomMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: AFEDA53BFD36D8418EE39D7728EFCF7B5894E5F5), compiling. 
+Missing cached shadermap for EditorBrushMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 5436DC4EAE584C75208182209D55EBF620C70494), compiling. 
+Missing cached shadermap for BoneWeightMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 8E8AB74D90FA590E195CB08FB82B58832DFDC321), compiling. 
+Missing cached shadermap for ClothMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: CAAAAC3606983741C0FA0F336EDA5EA1D1B654C9), compiling. 
+Missing cached shadermap for ClothMaterial_WF in PCD3D_SM5, Default, SM5 (DDC key hash: 069C09913A3F038BC0F06C801B97C6B26E49B74D), compiling. 
+Missing cached shadermap for DebugEditorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 67D82B812C29BDF489ED879A8AC9627475C3CC3B), compiling. 
+Missing cached shadermap for PhysicalMaterialMaskMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: AF691977C3AA24442DEAA7916E386F382D8FC75C), compiling. 
+Missing cached shadermap for PreviewShadowIndicatorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: F503FC95129C1E4ECA9542138809E25E3A010343), compiling. 
+Missing cached shadermap for FlattenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 2EA48632337724562B10456CDB289243A12783C0), compiling. 
+Building textures: /Engine/EngineMaterials/BaseFlattenEmissiveMap_VT.BaseFlattenEmissiveMap_VT (TFO_AutoDXT VT, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+Building textures: /Engine/EngineMaterials/BaseFlattenDiffuseMap_VT.BaseFlattenDiffuseMap_VT (TFO_AutoDXT VT, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+Building textures: /Engine/EngineMaterials/BaseFlattenGrayscaleMap_VT.BaseFlattenGrayscaleMap_VT (G8 VT, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+Building textures: /Engine/EngineMaterials/BaseFlattenLinearColor_VT.BaseFlattenLinearColor_VT (TFO_AutoDXT VT, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+Building textures: /Engine/EngineMaterials/BaseFlattenNormalMap_VT.BaseFlattenNormalMap_VT (BGRA8 VT, 1X1 X1X1) (Required Memory Estimate: 0.000019 MB), EncodeSpeed: Fast
+Missing cached shadermap for FlattenMaterial_VT in PCD3D_SM5, Default, SM5 (DDC key hash: 9FC30EB0EB569A6ABCB86F20CF5FE85A329EFAE5), compiling. 
+Building textures: /Engine/EngineMaterials/Black_1x1_EXR_Texture_VT.Black_1x1_EXR_Texture_VT (RGBA16F VT, 1X1 X1X1) (Required Memory Estimate: 0.000038 MB), EncodeSpeed: Fast
+Missing cached shadermap for FlattenMaterial_WS_Normal_VT in PCD3D_SM5, Default, SM5 (DDC key hash: 7379F5E6EAC91DDA618590BE4EBA938E43FB0537), compiling. 
+Scanning for built-in game feature plugins
+FPackageName: Mount point added: '../../../../../../Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Plugins/GameFeatures/ShooterCore/Content/' mounted to '/ShooterCore/'
+Couldn't find file for package /Game/Effects/Particles/Environmental/NS_CharacterPortalDissolve requested by async loading code. NameToLoad: /Game/Effects/Particles/Environmental/NS_CharacterPortalDissolve
+Couldn't find file for package /Game/Audio/MetaSounds/sfx_Weapon_GrenadeImpact_nl_meta requested by async loading code. NameToLoad: /Game/Audio/MetaSounds/sfx_Weapon_GrenadeImpact_nl_meta
+Couldn't find file for package /Game/Effects/Materials/Pyro/Instances/MI_Flipbook_Pyro_Grenade requested by async loading code. NameToLoad: /Game/Effects/Materials/Pyro/Instances/MI_Flipbook_Pyro_Grenade
+Couldn't find file for package /Game/Effects/Particles/Explosion/NS_Grenade_Trail requested by async loading code. NameToLoad: /Game/Effects/Particles/Explosion/NS_Grenade_Trail
+Couldn't find file for package /Game/Effects/Particles/Environmental/NS_WallPortal requested by async loading code. NameToLoad: /Game/Effects/Particles/Environmental/NS_WallPortal
+Couldn't find file for package /Game/Audio/MetaSounds/sfx_Teleport_nl_meta_Preset requested by async loading code. NameToLoad: /Game/Audio/MetaSounds/sfx_Teleport_nl_meta_Preset
+Couldn't find file for package /Game/Effects/Particles/Environmental/NS_WallPortalEnter requested by async loading code. NameToLoad: /Game/Effects/Particles/Environmental/NS_WallPortalEnter
+Couldn't find file for package /Game/Input/Configs/PMI_Default_KBM requested by async loading code. NameToLoad: /Game/Input/Configs/PMI_Default_KBM
+Couldn't find file for package /Game/Audio/Sounds/Weapons/Shotgun/MSS_Weapons_Shotgun_Fire requested by async loading code. NameToLoad: /Game/Audio/Sounds/Weapons/Shotgun/MSS_Weapons_Shotgun_Fire
+Couldn't find file for package /Game/Audio/MetaSounds/sfx_Weapon_SemiAutomaticShotgun_nl_metaPreset requested by async loading code. NameToLoad: /Game/Audio/MetaSounds/sfx_Weapon_SemiAutomaticShotgun_nl_metaPreset
+Couldn't find file for package /Game/Audio/Sounds/Weapons/Rifle2/MSS_Weapons_Rifle2_Fire requested by async loading code. NameToLoad: /Game/Audio/Sounds/Weapons/Rifle2/MSS_Weapons_Rifle2_Fire
+Couldn't find file for package /Game/Feedback/CameraShakes/CS_Weapon_Fire_Rifle requested by async loading code. NameToLoad: /Game/Feedback/CameraShakes/CS_Weapon_Fire_Rifle
+Couldn't find file for package /Game/Audio/Sounds/Weapons/Pistol/MSS_Weapons_Pistol_Fire requested by async loading code. NameToLoad: /Game/Audio/Sounds/Weapons/Pistol/MSS_Weapons_Pistol_Fire
+Couldn't find file for package /Game/Audio/MetaSounds/sfx_Weapon_SemiAutomaticPistol_nl_metaPreset requested by async loading code. NameToLoad: /Game/Audio/MetaSounds/sfx_Weapon_SemiAutomaticPistol_nl_metaPreset
+Couldn't find file for package /Game/Weapons/B_Weapon requested by async loading code. NameToLoad: /Game/Weapons/B_Weapon
+Couldn't find file for package /Game/Feedback/CameraShakes/CS_Weapon_Fire_Pistol requested by async loading code. NameToLoad: /Game/Feedback/CameraShakes/CS_Weapon_Fire_Pistol
+Couldn't find file for package /Game/Audio/Blueprints/WeaponAudioMacros requested by async loading code. NameToLoad: /Game/Audio/Blueprints/WeaponAudioMacros
+Couldn't find file for package /Game/Effects/Particles/Explosion/NS_Grenade_Explosion requested by async loading code. NameToLoad: /Game/Effects/Particles/Explosion/NS_Grenade_Explosion
+Couldn't find file for package /Game/Audio/Sounds/Explosions/MSS_Explosions_Grenade requested by async loading code. NameToLoad: /Game/Audio/Sounds/Explosions/MSS_Explosions_Grenade
+Couldn't find file for package /Game/Audio/MetaSounds/sfx_Weapon_GrenadeExplosion_nl_meta requested by async loading code. NameToLoad: /Game/Audio/MetaSounds/sfx_Weapon_GrenadeExplosion_nl_meta
+Couldn't find file for package /Game/Effects/Particles/Item/NS_GunPad_Pickup requested by async loading code. NameToLoad: /Game/Effects/Particles/Item/NS_GunPad_Pickup
+Couldn't find file for package /Game/Audio/Sounds/SFX/Lyra_RingLoop_03 requested by async loading code. NameToLoad: /Game/Audio/Sounds/SFX/Lyra_RingLoop_03
+Couldn't find file for package /Game/Audio/AttenuationPresets/ATT_Amb_Pad requested by async loading code. NameToLoad: /Game/Audio/AttenuationPresets/ATT_Amb_Pad
+Couldn't find file for package /Game/Effects/Particles/Item/NS_GunPad_Loading requested by async loading code. NameToLoad: /Game/Effects/Particles/Item/NS_GunPad_Loading
+Couldn't find file for package /Game/Effects/Particles/Item/NS_GunPad requested by async loading code. NameToLoad: /Game/Effects/Particles/Item/NS_GunPad
+Couldn't find file for package /Game/Weapons/Spawnpad/Material/MI_InternalShapeGlow_Circle requested by async loading code. NameToLoad: /Game/Weapons/Spawnpad/Material/MI_InternalShapeGlow_Circle
+Couldn't find file for package /Game/Feedback/Haptics/FFE_Weapon_Fire requested by async loading code. NameToLoad: /Game/Feedback/Haptics/FFE_Weapon_Fire
+Couldn't find file for package /Game/Feedback/CameraShakes/CS_Weapon_Fire_Shotgun requested by async loading code. NameToLoad: /Game/Feedback/CameraShakes/CS_Weapon_Fire_Shotgun
+Couldn't find file for package /Game/Effects/Particles/Environmental/NS_CharacterDash requested by async loading code. NameToLoad: /Game/Effects/Particles/Environmental/NS_CharacterDash
+Couldn't find file for package /Game/Audio/MetaSounds/sfx_DashStereo_nl_meta_Preset requested by async loading code. NameToLoad: /Game/Audio/MetaSounds/sfx_DashStereo_nl_meta_Preset
+Couldn't find file for package /Game/Effects/Particles/Impacts/NS_DeathCubes requested by async loading code. NameToLoad: /Game/Effects/Particles/Impacts/NS_DeathCubes
+Couldn't find file for package /Game/Effects/Particles/Environmental/NS_ElectricMovement requested by async loading code. NameToLoad: /Game/Effects/Particles/Environmental/NS_ElectricMovement
+Couldn't find file for package /Game/Audio/MetaSounds/sfx_Death_nl_meta_Preset requested by async loading code. NameToLoad: /Game/Audio/MetaSounds/sfx_Death_nl_meta_Preset
+Couldn't find file for package /Game/Effects/Particles/Environmental/NS_JumpPad requested by async loading code. NameToLoad: /Game/Effects/Particles/Environmental/NS_JumpPad
+Couldn't find file for package /Game/Audio/MetaSounds/sfx_Interactable_JumpPad_nl_meta requested by async loading code. NameToLoad: /Game/Audio/MetaSounds/sfx_Interactable_JumpPad_nl_meta
+Couldn't find file for package /Game/Effects/Curves/Curve_LaunchpadMaterialEffect requested by async loading code. NameToLoad: /Game/Effects/Curves/Curve_LaunchpadMaterialEffect
+Couldn't find file for package /Game/Effects/Particles/Environmental/NS_CharacterSpawnIn2 requested by async loading code. NameToLoad: /Game/Effects/Particles/Environmental/NS_CharacterSpawnIn2
+Couldn't find file for package /Game/Effects/Particles/Environmental/NS_CharacterSpawnIn requested by async loading code. NameToLoad: /Game/Effects/Particles/Environmental/NS_CharacterSpawnIn
+Couldn't find file for package /Game/Audio/MetaSounds/sfx_Spawn_nl_meta_Preset requested by async loading code. NameToLoad: /Game/Audio/MetaSounds/sfx_Spawn_nl_meta_Preset
+Couldn't find file for package /Game/Characters/Heroes/Mannequin/Meshes/SKM_Manny_Invis requested by async loading code. NameToLoad: /Game/Characters/Heroes/Mannequin/Meshes/SKM_Manny_Invis
+Couldn't find file for package /Game/GameplayEffects/Damage/GE_Damage_Basic_Instant requested by async loading code. NameToLoad: /Game/GameplayEffects/Damage/GE_Damage_Basic_Instant
+Couldn't find file for package /Game/Weapons/Grenade/Mesh/SM_grenade requested by async loading code. NameToLoad: /Game/Weapons/Grenade/Mesh/SM_grenade
+Couldn't find file for package /Game/Audio/AttenuationPresets/ATT_Projectile requested by async loading code. NameToLoad: /Game/Audio/AttenuationPresets/ATT_Projectile
+CreateExport: Failed to load Parent for BlueprintGeneratedClass /ShooterCore/Weapons/Grenade/GE_Damage_Grenade.GE_Damage_Grenade_C
+CreateExport: Failed to load Parent for BlueprintGeneratedClass /ShooterCore/Weapons/Grenade/GE_Damage_Grenade.GE_Damage_Grenade_C
+CreateExport: Failed to load Parent for BlueprintGeneratedClass /ShooterCore/Weapons/Grenade/GE_Damage_Grenade.GE_Damage_Grenade_C
+Unable to load Default__GE_Damage_Grenade_C with outer Package /ShooterCore/Weapons/Grenade/GE_Damage_Grenade because its class (GE_Damage_Grenade_C) does not exist
+CreateExport: Failed to load Parent for BlueprintGeneratedClass /ShooterCore/Weapons/Grenade/GE_Damage_Grenade.GE_Damage_Grenade_C
+CreateExport: Failed to load Parent for BlueprintGeneratedClass /ShooterCore/Weapons/Grenade/GE_Damage_Grenade.GE_Damage_Grenade_C
+CreateExport: Failed to load Parent for BlueprintGeneratedClass /ShooterCore/Weapons/Grenade/GE_Damage_Grenade.GE_Damage_Grenade_C
+Couldn't find file for package /Game/Weapons/Spawnpad/Mesh/SM_launchpad_Square requested by async loading code. NameToLoad: /Game/Weapons/Spawnpad/Mesh/SM_launchpad_Square
+Couldn't find file for package /Game/Audio/Effects/SubmixEffects/TAP_EarlyReflections requested by async loading code. NameToLoad: /Game/Audio/Effects/SubmixEffects/TAP_EarlyReflections
+Couldn't find file for package /Game/Audio/MetaSounds/sfx_WhizBys_nl_meta requested by async loading code. NameToLoad: /Game/Audio/MetaSounds/sfx_WhizBys_nl_meta
+Couldn't find file for package /Game/Audio/Blueprints/B_MusicManagerComponent_Base requested by async loading code. NameToLoad: /Game/Audio/Blueprints/B_MusicManagerComponent_Base
+Couldn't find file for package /Game/Weapons/Spawnpad/Mesh/SM_launchpad_Round requested by async loading code. NameToLoad: /Game/Weapons/Spawnpad/Mesh/SM_launchpad_Round
+[AssetLog] D:\Attribute Overload\UE5-Multiplayer-Demo\LyraStarterGame\Plugins\GameFeatures\ShooterCore\Content\System\Audio\WeaponAudioFunctions.uasset: [Compiler] Invalid pin connection from ' Return Value ' to ' Meta '. You may have changed the type after the connections were made.
+[AssetLog] D:\Attribute Overload\UE5-Multiplayer-Demo\LyraStarterGame\Plugins\GameFeatures\ShooterCore\Content\System\Audio\WeaponAudioFunctions.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Receive Weapon Fire . Please refresh node or break links to remove pin.
+[AssetLog] D:\Attribute Overload\UE5-Multiplayer-Demo\LyraStarterGame\Plugins\GameFeatures\ShooterCore\Content\System\Audio\WeaponAudioFunctions.uasset: [Compiler] In use pin  Meta  no longer exists on node  Receive Weapon Fire . Please refresh node or break links to remove pin.
+[AssetLog] D:\Attribute Overload\UE5-Multiplayer-Demo\LyraStarterGame\Plugins\GameFeatures\ShooterCore\Content\System\Audio\WeaponAudioFunctions.uasset: [Compiler] In use pin  Player  no longer exists on node  Receive Weapon Fire . Please refresh node or break links to remove pin.
+[AssetLog] D:\Attribute Overload\UE5-Multiplayer-Demo\LyraStarterGame\Plugins\GameFeatures\ShooterCore\Content\System\Audio\WeaponAudioFunctions.uasset: [Compiler] In use pin  Strength  no longer exists on node  Receive Weapon Fire . Please refresh node or break links to remove pin.
+[AssetLog] D:\Attribute Overload\UE5-Multiplayer-Demo\LyraStarterGame\Plugins\GameFeatures\ShooterCore\Content\System\Audio\WeaponAudioFunctions.uasset: [Compiler] Could not find a function named "Receive Weapon Fire" in 'WeaponAudioFunctions'.
+Make sure 'WeaponAudioFunctions' has been compiled for  Receive Weapon Fire
+[AssetLog] D:\Attribute Overload\UE5-Multiplayer-Demo\LyraStarterGame\Plugins\GameFeatures\ShooterCore\Content\System\Audio\WeaponAudioFunctions.uasset: [Compiler] In use pin  Pawn  no longer exists on node  Macro instance . Please refresh node or break links to remove pin.
+[AssetLog] D:\Attribute Overload\UE5-Multiplayer-Demo\LyraStarterGame\Plugins\GameFeatures\ShooterCore\Content\System\Audio\WeaponAudioFunctions.uasset: [Compiler] In use pin  Magazine Ammo  no longer exists on node  Macro instance . Please refresh node or break links to remove pin.
+[AssetLog] D:\Attribute Overload\UE5-Multiplayer-Demo\LyraStarterGame\Plugins\GameFeatures\ShooterCore\Content\System\Audio\WeaponAudioFunctions.uasset: [Compiler] Macro node  Macro instance  is pointing at an invalid macro graph.
+CreateExport: Failed to load Parent for BlueprintGeneratedClass /ShooterCore/Weapons/Grenade/GE_Damage_Grenade.GE_Damage_Grenade_C
+[AssetLog] D:\Attribute Overload\UE5-Multiplayer-Demo\LyraStarterGame\Plugins\GameFeatures\ShooterCore\Content\Weapons\Pistol\GCN_Weapon_Pistol_Fire.uasset: [Compiler] In use pin  Pawn  no longer exists on node  Macro instance . Please refresh node or break links to remove pin.
+[AssetLog] D:\Attribute Overload\UE5-Multiplayer-Demo\LyraStarterGame\Plugins\GameFeatures\ShooterCore\Content\Weapons\Pistol\GCN_Weapon_Pistol_Fire.uasset: [Compiler] In use pin  As B Weapon  no longer exists on node  Macro instance . Please refresh node or break links to remove pin.
+[AssetLog] D:\Attribute Overload\UE5-Multiplayer-Demo\LyraStarterGame\Plugins\GameFeatures\ShooterCore\Content\Weapons\Pistol\GCN_Weapon_Pistol_Fire.uasset: [Compiler] Macro node  Macro instance  is pointing at an invalid macro graph.
+[AssetLog] D:\Attribute Overload\UE5-Multiplayer-Demo\LyraStarterGame\Plugins\GameFeatures\ShooterCore\Content\Weapons\Rifle\GCN_Weapon_Rifle_Fire.uasset: [Compiler] In use pin  Pawn  no longer exists on node  Macro instance . Please refresh node or break links to remove pin.
+[AssetLog] D:\Attribute Overload\UE5-Multiplayer-Demo\LyraStarterGame\Plugins\GameFeatures\ShooterCore\Content\Weapons\Rifle\GCN_Weapon_Rifle_Fire.uasset: [Compiler] In use pin  As B Weapon  no longer exists on node  Macro instance . Please refresh node or break links to remove pin.
+[AssetLog] D:\Attribute Overload\UE5-Multiplayer-Demo\LyraStarterGame\Plugins\GameFeatures\ShooterCore\Content\Weapons\Rifle\GCN_Weapon_Rifle_Fire.uasset: [Compiler] Macro node  Macro instance  is pointing at an invalid macro graph.
+[AssetLog] D:\Attribute Overload\UE5-Multiplayer-Demo\LyraStarterGame\Plugins\GameFeatures\ShooterCore\Content\Weapons\Shotgun\GCN_Weapon_Shotgun_Fire.uasset: [Compiler] In use pin  Pawn  no longer exists on node  Macro instance . Please refresh node or break links to remove pin.
+[AssetLog] D:\Attribute Overload\UE5-Multiplayer-Demo\LyraStarterGame\Plugins\GameFeatures\ShooterCore\Content\Weapons\Shotgun\GCN_Weapon_Shotgun_Fire.uasset: [Compiler] In use pin  As B Weapon  no longer exists on node  Macro instance . Please refresh node or break links to remove pin.
+[AssetLog] D:\Attribute Overload\UE5-Multiplayer-Demo\LyraStarterGame\Plugins\GameFeatures\ShooterCore\Content\Weapons\Shotgun\GCN_Weapon_Shotgun_Fire.uasset: [Compiler] Macro node  Macro instance  is pointing at an invalid macro graph.
+Missing cached shadermap for M_WeaponSpawnTimerIndicator in PCD3D_SM5, Default, SM5 (DDC key hash: A86F0BE35FF3476235A74CF0F669FA9A6BFD743D), compiling. 
+
+
+Script Stack (0 frames):
+
+FPlatformStackWalk::StackWalkAndDump -  1.427 s
+=== Handled ensure: ===
+
+Ensure condition failed: LoadedAsset [File:D:\build\++UE5\Sync\LocalBuilds\Lyra\Windows\Source\LyraGame\System\LyraAssetManager.h] [Line: 134]
+Failed to load asset [/Game/Input/Configs/PMI_Default_KBM.PMI_Default_KBM]
+Stack: 
+[Callstack] 0x00007ffd4bb20ea0 UnrealEditor-LyraGame.dll!ULyraAssetManager::GetAsset<UPlayerMappableInputConfig>() [D:\build\++UE5\Sync\LocalBuilds\Lyra\Windows\Source\LyraGame\System\LyraAssetManager.h:134]
+[Callstack] 0x00007ffd4bb69b8a UnrealEditor-LyraGame.dll!FMappableConfigPair::RegisterPair() [D:\build\++UE5\Sync\LocalBuilds\Lyra\Windows\Source\LyraGame\Input\LyraMappableConfigPair.cpp:36]
+[Callstack] 0x00007ffd4baf24f7 UnrealEditor-LyraGame.dll!UGameFeatureAction_AddInputConfig::OnGameFeatureRegistering() [D:\build\++UE5\Sync\LocalBuilds\Lyra\Windows\Source\LyraGame\GameFeatures\GameFeatureAction_AddInputConfig.cpp:11]
+[Callstack] 0x00007ffd4c03380b UnrealEditor-GameFeatures.dll!UnknownFunction []
+[Callstack] 0x00007ffd4c03e048 UnrealEditor-GameFeatures.dll!UnknownFunction []
+[Callstack] 0x00007ffd4c03ebb1 UnrealEditor-GameFeatures.dll!UnknownFunction []
+[Callstack] 0x00007ffd4c03a197 UnrealEditor-GameFeatures.dll!UnknownFunction []
+[Callstack] 0x00007ffd4c02fb38 UnrealEditor-GameFeatures.dll!UnknownFunction []
+[Callstack] 0x00007ffd4c02fd18 UnrealEditor-GameFeatures.dll!UnknownFunction []
+[Callstack] 0x00007ffd4c02b804 UnrealEditor-GameFeatures.dll!UnknownFunction []
+[Callstack] 0x00007ffd4bae610c UnrealEditor-LyraGame.dll!ULyraGameFeaturePolicy::InitGameFeatureManager() [D:\build\++UE5\Sync\LocalBuilds\Lyra\Windows\Source\LyraGame\GameFeatures\LyraGameFeaturePolicy.cpp:38]
+[Callstack] 0x00007ffd4c0316ac UnrealEditor-GameFeatures.dll!UnknownFunction []
+[Callstack] 0x00007ffd4c0276e2 UnrealEditor-GameFeatures.dll!UnknownFunction []
+[Callstack] 0x00007ffd72891c1d UnrealEditor-Engine.dll!UnknownFunction []
+[Callstack] 0x00007ffd72c8a3ca UnrealEditor-Engine.dll!UnknownFunction []
+[Callstack] 0x00007ffd4bb73a1e UnrealEditor-LyraGame.dll!ULyraAssetManager::StartInitialLoading() [D:\build\++UE5\Sync\LocalBuilds\Lyra\Windows\Source\LyraGame\System\LyraAssetManager.cpp:109]
+[Callstack] 0x00007ffd74522468 UnrealEditor-Engine.dll!UnknownFunction []
+[Callstack] 0x00007ffd70eeacee UnrealEditor-UnrealEd.dll!UnknownFunction []
+[Callstack] 0x00007ffd7451a0ed UnrealEditor-Engine.dll!UnknownFunction []
+[Callstack] 0x00007ffd70ee81ea UnrealEditor-UnrealEd.dll!UnknownFunction []
+[Callstack] 0x00007ffd70ee7777 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[Callstack] 0x00007ffd7184fb0e UnrealEditor-UnrealEd.dll!UnknownFunction []
+[Callstack] 0x00007ff7cbcf294d UnrealEditor.exe!UnknownFunction []
+[Callstack] 0x00007ffd718218b3 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[Callstack] 0x00007ff7cbd10cb1 UnrealEditor.exe!UnknownFunction []
+[Callstack] 0x00007ff7cbd10e8a UnrealEditor.exe!UnknownFunction []
+[Callstack] 0x00007ff7cbd13c4d UnrealEditor.exe!UnknownFunction []
+[Callstack] 0x00007ff7cbd25564 UnrealEditor.exe!UnknownFunction []
+[Callstack] 0x00007ff7cbd28736 UnrealEditor.exe!UnknownFunction []
+[Callstack] 0x00007ffe42755550 KERNEL32.DLL!UnknownFunction []
+[Callstack] 0x00007ffe4394485b ntdll.dll!UnknownFunction []
+
+               SubmitErrorReport -  0.000 s

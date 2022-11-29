@@ -1,0 +1,27 @@
+{
+	"SourceFiles": [
+		"D:\\Attribute Overload\\UE5-Multiplayer-Demo\\LyraStarterGame\\Source\\LyraEditor\\LyraEditor.Build.cs",
+		"D:\\Attribute Overload\\UE5-Multiplayer-Demo\\LyraStarterGame\\Source\\LyraGame\\LyraGame.Build.cs",
+		"D:\\Attribute Overload\\UE5-Multiplayer-Demo\\LyraStarterGame\\Plugins\\AsyncMixin\\Source\\AsyncMixin.Build.cs",
+		"D:\\Attribute Overload\\UE5-Multiplayer-Demo\\LyraStarterGame\\Plugins\\CommonGame\\Source\\CommonGame.Build.cs",
+		"D:\\Attribute Overload\\UE5-Multiplayer-Demo\\LyraStarterGame\\Plugins\\CommonLoadingScreen\\Source\\CommonLoadingScreen\\CommonLoadingScreen.Build.cs",
+		"D:\\Attribute Overload\\UE5-Multiplayer-Demo\\LyraStarterGame\\Plugins\\CommonLoadingScreen\\Source\\CommonStartupLoadingScreen\\CommonStartupLoadingScreen.Build.cs",
+		"D:\\Attribute Overload\\UE5-Multiplayer-Demo\\LyraStarterGame\\Plugins\\CommonUser\\Source\\CommonUser\\CommonUser.Build.cs",
+		"D:\\Attribute Overload\\UE5-Multiplayer-Demo\\LyraStarterGame\\Plugins\\GameFeatures\\ShooterCore\\Source\\ShooterCoreRuntime\\ShooterCoreRuntime.Build.cs",
+		"D:\\Attribute Overload\\UE5-Multiplayer-Demo\\LyraStarterGame\\Plugins\\GameFeatures\\TopDownArena\\Source\\TopDownArenaRuntime\\TopDownArenaRuntime.Build.cs",
+		"D:\\Attribute Overload\\UE5-Multiplayer-Demo\\LyraStarterGame\\Plugins\\GameplayMessageRouter\\Source\\GameplayMessageNodes\\GameplayMessageNodes.Build.cs",
+		"D:\\Attribute Overload\\UE5-Multiplayer-Demo\\LyraStarterGame\\Plugins\\GameplayMessageRouter\\Source\\GameplayMessageRuntime\\GameplayMessageRuntime.Build.cs",
+		"D:\\Attribute Overload\\UE5-Multiplayer-Demo\\LyraStarterGame\\Plugins\\GameSettings\\Source\\GameSettings.Build.cs",
+		"D:\\Attribute Overload\\UE5-Multiplayer-Demo\\LyraStarterGame\\Plugins\\GameSubtitles\\Source\\GameSubtitles.Build.cs",
+		"D:\\Attribute Overload\\UE5-Multiplayer-Demo\\LyraStarterGame\\Plugins\\LyraExtTool\\Source\\LyraExtTool\\LyraExtTool.Build.cs",
+		"D:\\Attribute Overload\\UE5-Multiplayer-Demo\\LyraStarterGame\\Plugins\\ModularGameplayActors\\Source\\ModularGameplayActors\\ModularGameplayActors.Build.cs",
+		"D:\\Attribute Overload\\UE5-Multiplayer-Demo\\LyraStarterGame\\Plugins\\PocketWorlds\\Source\\PocketWorlds.Build.cs",
+		"D:\\Attribute Overload\\UE5-Multiplayer-Demo\\LyraStarterGame\\Plugins\\UIExtension\\Source\\UIExtension.Build.cs",
+		"D:\\Attribute Overload\\UE5-Multiplayer-Demo\\LyraStarterGame\\Source\\LyraClient.Target.cs",
+		"D:\\Attribute Overload\\UE5-Multiplayer-Demo\\LyraStarterGame\\Source\\LyraEditor.Target.cs",
+		"D:\\Attribute Overload\\UE5-Multiplayer-Demo\\LyraStarterGame\\Source\\LyraGame.Target.cs",
+		"D:\\Attribute Overload\\UE5-Multiplayer-Demo\\LyraStarterGame\\Source\\LyraGameEOS.Target.cs",
+		"D:\\Attribute Overload\\UE5-Multiplayer-Demo\\LyraStarterGame\\Source\\LyraServer.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
