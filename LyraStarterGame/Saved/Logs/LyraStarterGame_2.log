@@ -1,0 +1,1006 @@
+﻿Log file open, 12/05/22 01:30:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=3568)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: LyraStarterGame
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/LyraStarterGame.uproject" /Game/Maps/Menu/MainMenu -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=PIEGameUserSettings0 -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -windowed -ResX=1280 -ResY=720""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2251] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 7 3800X 8-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="1549e73f4723aa61247e9a9ed7421d19"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.814848
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-6D7C8D48499265D22B9C24A9D8C16A7E
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogConfig: Display: Loading Android ini files took 0.05 seconds
+LogConfig: Display: Loading IOS ini files took 0.05 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogConfig: Display: Loading Windows ini files took 0.05 seconds
+LogConfig: Display: Loading Linux ini files took 0.06 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.06 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin AudioGameplay
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AudioGameplayVolume
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OpenColorIO
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin AssetReferenceRestrictions
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin AssetSearch
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting Engine plugin ActorPalette
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin CommonConversation
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CommonUI
+LogPluginManager: Mounting Engine plugin EnhancedInput
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ControlFlows
+LogPluginManager: Mounting Engine plugin Gauntlet
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GameFeatures
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryScripting
+LogPluginManager: Mounting Engine plugin Landmass
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin ModularGameplay
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin RemoteSession
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin Water
+LogPluginManager: Mounting Engine plugin Volumetrics
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaIOFramework
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin MovieRenderPipeline
+LogPluginManager: Mounting Engine plugin MoviePipelineMaskRenderPass
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin AudioWidgets
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioModulation
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin DataRegistry
+LogPluginManager: Mounting Engine plugin GameplayAbilities
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin Metasound
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ReplicationGraph
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin SoundUtilities
+LogPluginManager: Mounting Engine plugin Spatialization
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AnimationLocomotionLibrary
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin AnimationWarping
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin GameplayInsights
+LogPluginManager: Mounting Engine plugin EOSShared
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineFramework
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemEOS
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin SocketSubsystemEOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin OnlineSubsystemSteam
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin SQLiteCore
+LogPluginManager: Mounting Engine plugin SteamSockets
+LogPluginManager: Mounting Engine plugin SteamShared
+LogPluginManager: Mounting Engine plugin WinDualShock
+LogPluginManager: Mounting Engine plugin OnlineServicesEOS
+LogPluginManager: Mounting Engine plugin OnlineServicesNull
+LogPluginManager: Mounting Engine plugin OnlineServicesOSSAdapter
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin EOSVoiceChat
+LogPluginManager: Mounting Project plugin LyraExampleContent
+LogPluginManager: Mounting Project plugin CommonUser
+LogPluginManager: Mounting Project plugin AsyncMixin
+LogPluginManager: Mounting Project plugin CommonLoadingScreen
+LogPluginManager: Mounting Project plugin GameplayMessageRouter
+LogPluginManager: Mounting Project plugin CommonGame
+LogPluginManager: Mounting Project plugin GameSettings
+LogPluginManager: Mounting Project plugin LyraExtTool
+LogPluginManager: Mounting Project plugin GameSubtitles
+LogPluginManager: Mounting Project plugin UIExtension
+LogPluginManager: Mounting Project plugin PocketWorlds
+LogPluginManager: Mounting Project plugin ModularGameplayActors
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Compositing/OpenColorIO/Content/' mounted to '/OpenColorIO/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/CommonUI/Content/' mounted to '/CommonUI/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ControlFlows/Content/' mounted to '/ControlFlows/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryScripting/Content/' mounted to '/GeometryScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Landmass/Content/' mounted to '/Landmass/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/RemoteSession/Content/' mounted to '/RemoteSession/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Water/Content/' mounted to '/Water/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Volumetrics/Content/' mounted to '/Volumetrics/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/MovieRenderPipeline/Content/' mounted to '/MovieRenderPipeline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/MoviePipelineMaskRenderPass/Content/' mounted to '/MoviePipelineMaskRenderPass/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioWidgets/Content/' mounted to '/AudioWidgets/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioModulation/Content/' mounted to '/AudioModulation/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Metasound/Content/' mounted to '/Metasound/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/SoundUtilities/Content/' mounted to '/SoundUtilities/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/AnimationLocomotionLibrary/Content/' mounted to '/AnimationLocomotionLibrary/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/AnimationWarping/Content/' mounted to '/AnimationWarping/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: 'E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Plugins/LyraExampleContent/Content/' mounted to '/LyraExampleContent/'
+LogPackageName: Display: FPackageName: Mount point added: 'E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Plugins/LyraExtTool/Content/' mounted to '/LyraExtTool/'
+LogPackageName: Display: FPackageName: Mount point added: 'E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Plugins/PocketWorlds/Content/' mounted to '/PocketWorlds/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogWindows: Failed to load 'E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Binaries/Win64/EOSSDK-Win64-Shipping.dll' (GetLastError=126)
+LogWindows: File 'E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Binaries/Win64/EOSSDK-Win64-Shipping.dll' does not exist
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2251] (), CPU: AMD Ryzen 7 3800X 8-Core Processor             , GPU: NVIDIA GeForce RTX 3070
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  /Game/Maps/Menu/MainMenu -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=PIEGameUserSettings0 -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -windowed -ResX=1280 -ResY=720
+LogInit: Base Directory: C:/Program Files (x86)/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[r.SupportMaterialLayers:1]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.12.05-07.30.08:928][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.12.05-07.30.08:928][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.12.05-07.30.08:928][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.12.05-07.30.08:929][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.12.05-07.30.08:929][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.12.05-07.30.08:929][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.12.05-07.30.08:929][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.12.05-07.30.08:929][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.12.05-07.30.08:929][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.12.05-07.30.08:929][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.12.05-07.30.08:929][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.12.05-07.30.08:929][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.12.05-07.30.09:023][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.12.05-07.30.09:023][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.12.05-07.30.09:023][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.12.05-07.30.09:023][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.12.05-07.30.09:023][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.12.05-07.30.09:023][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.12.05-07.30.09:023][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.12.05-07.30.09:023][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.12.05-07.30.09:024][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.12.05-07.30.09:024][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.12.05-07.30.09:024][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.12.05-07.30.09:099][  0]LogD3D12RHI: Aftermath initialized
+[2022.12.05-07.30.09:099][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.12.05-07.30.09:272][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3070 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.12.05-07.30.09:272][  0]LogD3D12RHI: Adapter has 8043MB of dedicated video memory, 0MB of dedicated system memory, and 16349MB of shared system memory, 4 output[s]
+[2022.12.05-07.30.09:280][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.12.05-07.30.09:280][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16349MB of shared system memory, 0 output[s]
+[2022.12.05-07.30.09:385][  0]LogD3D12RHI: Found D3D12 adapter 2: NVIDIA GeForce RTX 3070 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.12.05-07.30.09:385][  0]LogD3D12RHI: Adapter has 8043MB of dedicated video memory, 0MB of dedicated system memory, and 16349MB of shared system memory, 0 output[s]
+[2022.12.05-07.30.09:385][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.12.05-07.30.09:385][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.12.05-07.30.09:385][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.12.05-07.30.09:385][  0]LogHAL: Display: Platform has ~ 32 GB [34287738880 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.12.05-07.30.09:385][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.12.05-07.30.09:385][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.12.05-07.30.09:385][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.12.05-07.30.09:386][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.12.05-07.30.09:386][  0]LogConfig: CVar [[gpad.DefaultLeftStickInnerDeadZone:0.24]] deferred - dummy variable created
+[2022.12.05-07.30.09:386][  0]LogConfig: CVar [[gpad.DefaultRightStickInnerDeadZone:0.27]] deferred - dummy variable created
+[2022.12.05-07.30.09:386][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Saved/Config/WindowsEditor/Editor.ini]
+[2022.12.05-07.30.09:386][  0]LogInit: Computer: ROJA
+[2022.12.05-07.30.09:386][  0]LogInit: User: Brian
+[2022.12.05-07.30.09:386][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.12.05-07.30.09:386][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.12.05-07.30.09:386][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.12.05-07.30.09:386][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.12.05-07.30.09:386][  0]LogMemory: Process Physical Memory: 290.52 MB used, 299.21 MB peak
+[2022.12.05-07.30.09:386][  0]LogMemory: Process Virtual Memory: 252.40 MB used, 252.40 MB peak
+[2022.12.05-07.30.09:386][  0]LogMemory: Physical Memory: 16673.97 MB used,  16025.37 MB free, 32699.34 MB total
+[2022.12.05-07.30.09:387][  0]LogMemory: Virtual Memory: 30825.53 MB used,  31569.81 MB free, 62395.34 MB total
+[2022.12.05-07.30.09:387][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.12.05-07.30.09:393][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.12.05-07.30.09:408][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.12.05-07.30.09:419][  0]LogInit: Using OS detected language (es-MX).
+[2022.12.05-07.30.09:419][  0]LogInit: Using OS detected locale (es-MX).
+[2022.12.05-07.30.09:435][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/es-MX/Editor.locres' could not be opened for reading!
+[2022.12.05-07.30.09:436][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/es-MX/EditorTutorials.locres' could not be opened for reading!
+[2022.12.05-07.30.09:436][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/es-MX/Keywords.locres' could not be opened for reading!
+[2022.12.05-07.30.09:436][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/es-MX/Category.locres' could not be opened for reading!
+[2022.12.05-07.30.09:436][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/es-MX/ToolTips.locres' could not be opened for reading!
+[2022.12.05-07.30.09:436][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/es-MX/PropertyNames.locres' could not be opened for reading!
+[2022.12.05-07.30.09:436][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/es-MX/Engine.locres' could not be opened for reading!
+[2022.12.05-07.30.09:436][  0]LogTextLocalizationResource: LocRes 'E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es-MX/EngineOverrides.locres' could not be opened for reading!
+[2022.12.05-07.30.09:436][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineFramework/Content/Localization/OnlineFramework/es-MX/OnlineFramework.locres' could not be opened for reading!
+[2022.12.05-07.30.09:440][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/es-MX/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2022.12.05-07.30.09:440][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemSteam/Content/Localization/OnlineSubsystemSteam/es-MX/OnlineSubsystemSteam.locres' could not be opened for reading!
+[2022.12.05-07.30.09:441][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/es-MX/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2022.12.05-07.30.09:441][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/es-MX/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2022.12.05-07.30.09:527][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "DynamicRHI" and key "NullDrvFailure". The current translation is "¿Fallo de NullDrv?" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xf9aa387f) and the conflicting translation of "¿Error NullDrv?" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xf9aa387f) will be ignored.
+[2022.12.05-07.30.09:527][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "GenericPlatform" and key "FileManagerName". The current translation is "Gestor de archivos" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xa64cf298) and the conflicting translation of "Administrador de archivos" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xa64cf298) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Android_Back". The current translation is "Android Atrás" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xe718bc2d) and the conflicting translation of "Android: Atrás" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xe718bc2d) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Delete". The current translation is "Eliminar" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xe2e553c4) and the conflicting translation of "Suprimir" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xe2e553c4) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "End". The current translation is "Final" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xa230d452) and the conflicting translation of "Fin" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xa230d452) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "ForwardDelete". The current translation is "Fn+Supr" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x0df7504d) and the conflicting translation of "Fn+Suprimir" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x0df7504d) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "XBoxOne_Gamepad_Special_Left". The current translation is "Gamepad atrás" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x15e548d7) and the conflicting translation of "Mando: Atrás" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x15e548d7) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "PS4_Gamepad_FaceButton_Right". The current translation is "Gamepad círculo" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x2996d110) and the conflicting translation of "Mando: Círculo" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x2996d110) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Gamepad_FaceButton_Bottom". The current translation is "Gamepad botón frontal inferior" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x2f9dfd4c) and the conflicting translation of "Mando: Botón frontal abajo" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x2f9dfd4c) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Gamepad_FaceButton_Left". The current translation is "Gamepad botón frontal izquierdo" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x779640b1) and the conflicting translation of "Mando: Botón frontal izquierda" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x779640b1) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Gamepad_FaceButton_Right". The current translation is "Gamepad botón frontal derecho" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x179ade6a) and the conflicting translation of "Mando: Botón frontal derecha" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x179ade6a) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Gamepad_FaceButton_Top". The current translation is "Gamepad botón frontal superior" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x96dbd804) and the conflicting translation of "Mando: Botón frontal arriba" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x96dbd804) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "PS4_Gamepad_LeftTriggerAxis". The current translation is "Gamepad Eje L2" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xece986ce) and the conflicting translation of "Mando: Eje de L2" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xece986ce) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Gamepad_LeftShoulder". The current translation is "Gamepad gatillo izquierdo" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x8ee531f5) and the conflicting translation of "Mando: Botón superior izquierdo" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x8ee531f5) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Gamepad_LeftTrigger". The current translation is "Gamepad disparador izquierdo" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x6f11498d) and the conflicting translation of "Mando: Gatillo izquierdo" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x6f11498d) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Gamepad_LeftTriggerAxis". The current translation is "Gamepad Eje disparador izquierdo" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x3b2a5653) and the conflicting translation of "Mando: Eje del gatillo izquierdo" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x3b2a5653) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "PS4_Gamepad_Special_Right". The current translation is "Opciones Gamepad" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x9c6abe61) and the conflicting translation of "Mando: Opciones" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x9c6abe61) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "PS4_Gamepad_RightTriggerAxis". The current translation is "Gamepad eje R2" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xffa5b1b8) and the conflicting translation of "Mando: Eje de R2" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xffa5b1b8) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Gamepad_RightShoulder". The current translation is "Gamepad gatillo derecho" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xbfc1a78b) and the conflicting translation of "Mando: Botón superior derecho" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xbfc1a78b) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Gamepad_RightTrigger". The current translation is "Gamepad disparador derecho" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x4bca2005) and the conflicting translation of "Mando: Gatillo derecho" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x4bca2005) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Gamepad_RightTriggerAxis". The current translation is "Gamepad eje disparador derecho" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xe2f66b8e) and the conflicting translation of "Mando: Eje del gatillo derecho" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xe2f66b8e) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Gamepad_Special_Left". The current translation is "Gamepad especial izquierda" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xc9def1dc) and the conflicting translation of "Mando: Especial izquierda" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xc9def1dc) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Gamepad_Special_Right". The current translation is "Gamepad especial derecha" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x0e333e15) and the conflicting translation of "Mando: Especial derecha" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x0e333e15) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "PS4_Gamepad_FaceButton_Left". The current translation is "Gamepad cuadrado" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x53139649) and the conflicting translation of "Mando: Cuadrado" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x53139649) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "XBoxOne_Gamepad_Special_Right". The current translation is "Gamepad inicio" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xd8d791b9) and the conflicting translation of "Mando: Start" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xd8d791b9) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "PS4_Gamepad_Special_Left". The current translation is "Gamepad botón del panel táctil" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x3fa1c45b) and the conflicting translation of "Mando: Botón del panel táctil" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x3fa1c45b) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "PS4_Gamepad_FaceButton_Top". The current translation is "Gamepad triángulo" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x7db089e5) and the conflicting translation of "Mando: Triángulo" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x7db089e5) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Global_Back". The current translation is "Global atrás" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xd89b4588) and the conflicting translation of "Global: Atrás" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xd89b4588) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Global_Menu". The current translation is "Menú global" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x7eb42cb0) and the conflicting translation of "Global: Menú" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x7eb42cb0) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Global_Pause". The current translation is "Pausa global" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x0fcebfce) and the conflicting translation of "Global: Pausa" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x0fcebfce) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Global_Play". The current translation is "Reproducir global" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x9f86c7f2) and the conflicting translation of "Global: Jugar" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x9f86c7f2) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Global_View". The current translation is "Vista global" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x3021a0cf) and the conflicting translation of "Global: Ver" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x3021a0cf) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Home". The current translation is "Inicio" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xac0663c2) and the conflicting translation of "Base" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xac0663c2) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "LeftAlt". The current translation is "Alt izquierda" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x94abc9dd) and the conflicting translation of "Alt izquierdo" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x94abc9dd) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "LeftCommand". The current translation is "Cmd izquierda" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xe4230043) and the conflicting translation of "Cmd izquierdo" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xe4230043) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "LeftControl". The current translation is "Ctrl izquierda" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xebbedeb5) and the conflicting translation of "Ctrl izquierdo" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xebbedeb5) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "LeftShift". The current translation is "Shift izquierda" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x68b5e5ca) and the conflicting translation of "Mayús izquierdo" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x68b5e5ca) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "MouseScrollDown". The current translation is "Rueda del ratón hacia abajo" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x89746973) and the conflicting translation of "Rueda del ratón abajo" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x89746973) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "MouseScrollUp". The current translation is "Rueda del ratón hacia arriba" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x83f972ed) and the conflicting translation of "Rueda del ratón arriba" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x83f972ed) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "NumLock". The current translation is "Bloq Num" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x18c86328) and the conflicting translation of "Bloq Núm" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x18c86328) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "PageDown". The current translation is "Página abajo" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xaee4df15) and the conflicting translation of "Avanzar página" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xaee4df15) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "PageUp". The current translation is "Página arriba" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x4cef0048) and the conflicting translation of "Retroceder página" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x4cef0048) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "RightAlt". The current translation is "Alt derecha" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x1f9830e6) and the conflicting translation of "Alt derecho" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x1f9830e6) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "RightCommand". The current translation is "Cmd derecha" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x6f10f978) and the conflicting translation of "Cmd derecho" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x6f10f978) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "RightControl". The current translation is "Ctrl derecha" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xf880d6d2) and the conflicting translation of "Ctrl derecho" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xf880d6d2) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "RightMouseButton". The current translation is "Botón derecho del ratón" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x854aafc2) and the conflicting translation of "Botón secundario del ratón" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x854aafc2) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "RightShift". The current translation is "Shift derecha" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x052c216b) and the conflicting translation of "Mayús derecho" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x052c216b) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "RotationRate". The current translation is "Proporción de la rotación" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x79265673) and the conflicting translation of "Tasa de rotación" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x79265673) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "SpaceBar". The current translation is "Barra de espacio" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x46812822) and the conflicting translation of "Barra espaciadora" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x46812822) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Tab". The current translation is "Pestaña" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xc9c638b1) and the conflicting translation of "Tabulador" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xc9c638b1) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "ThumbMouseButton". The current translation is "Botón lateral del ratón" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xf1fb909e) and the conflicting translation of "Botón del pulgar del ratón" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xf1fb909e) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "ThumbMouseButton2". The current translation is "Botón lateral del ratón 2" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x19b5cddd) and the conflicting translation of "Botón del pulgar del ratón 2" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x19b5cddd) will be ignored.
+[2022.12.05-07.30.09:528][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Up". The current translation is "Subir" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x13db8257) and the conflicting translation of "Arriba" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x13db8257) will be ignored.
+[2022.12.05-07.30.09:529][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "LinuxDynamicRHI" and key "RequiredOpenGL". The current translation is "Es necesario OpenGL 3.2 para ejecutar el motor." (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xc517d6b4) and the conflicting translation of "Se necesita OpenGL 4.3 para ejecutar el motor." (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xc517d6b4) will be ignored.
+[2022.12.05-07.30.09:529][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "UnrealBuildConfigurations" and key "DebugName". The current translation is "Depurar" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xb1f0228a) and the conflicting translation of "Depuración" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xb1f0228a) will be ignored.
+[2022.12.05-07.30.09:529][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "WindowsDynamicRHI" and key "RequiredOpenGL". The current translation is "Es necesario OpenGL 3.2 para ejecutar el motor." (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xc517d6b4) and the conflicting translation of "Se necesita OpenGL 4.3 para ejecutar el motor." (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xc517d6b4) will be ignored.
+[2022.12.05-07.30.09:590][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.12.05-07.30.09:590][  0]LogWindowsTextInputMethodSystem:   - Español (México) - (Keyboard).
+[2022.12.05-07.30.09:590][  0]LogWindowsTextInputMethodSystem:   - Inglés (Estados Unidos) - (Keyboard).
+[2022.12.05-07.30.09:590][  0]LogWindowsTextInputMethodSystem:   - Español (México) - Corrección de entrada táctil (TSF IME).
+[2022.12.05-07.30.09:590][  0]LogWindowsTextInputMethodSystem: Activated input method: Inglés (Estados Unidos) - (Keyboard).
+[2022.12.05-07.30.09:723][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.12.05-07.30.09:723][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.12.05-07.30.09:842][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.12.05-07.30.09:845][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.12.05-07.30.09:845][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.12.05-07.30.09:919][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.12.05-07.30.09:919][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.12.05-07.30.09:919][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.12.05-07.30.09:919][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.12.05-07.30.09:919][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.12.05-07.30.09:919][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.12.05-07.30.09:919][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.12.05-07.30.09:919][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.12.05-07.30.09:919][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.12.05-07.30.09:919][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.12.05-07.30.09:919][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.12.05-07.30.09:919][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.12.05-07.30.09:919][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.12.05-07.30.09:919][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.12.05-07.30.09:919][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.12.05-07.30.09:919][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.12.05-07.30.09:970][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.12.05-07.30.09:977][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.12.05-07.30.09:996][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.12.05-07.30.10:013][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.12.05-07.30.10:013][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.12.05-07.30.10:013][  0]LogD3D12RHI:     GPU DeviceId: 0x2484 (for the marketing name, search the web for "GPU Device Id")
+[2022.12.05-07.30.10:013][  0]LogWindows: Attached monitors:
+[2022.12.05-07.30.10:013][  0]LogWindows:     resolution: 2560x1440, work area: (0, -1440) -> (2560, -40), device: '\\.\DISPLAY1'
+[2022.12.05-07.30.10:013][  0]LogWindows:     resolution: 2560x1440, work area: (2560, -657) -> (5120, 743), device: '\\.\DISPLAY2'
+[2022.12.05-07.30.10:013][  0]LogWindows:     resolution: 2560x1440, work area: (-2560, -674) -> (0, 726), device: '\\.\DISPLAY3'
+[2022.12.05-07.30.10:013][  0]LogWindows:     resolution: 2048x1152, work area: (0, 0) -> (2048, 1112), device: '\\.\DISPLAY4' [PRIMARY]
+[2022.12.05-07.30.10:013][  0]LogWindows: Found 4 attached monitors.
+[2022.12.05-07.30.10:013][  0]LogWindows: EnumDisplayDevices:
+[2022.12.05-07.30.10:013][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3070' (P:0 D:1), name: '\\.\DISPLAY1'
+[2022.12.05-07.30.10:013][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3070' (P:0 D:1), name: '\\.\DISPLAY2'
+[2022.12.05-07.30.10:014][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3070' (P:0 D:1), name: '\\.\DISPLAY3'
+[2022.12.05-07.30.10:014][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3070' (P:1 D:1), name: '\\.\DISPLAY4'
+[2022.12.05-07.30.10:014][  0]LogWindows:    4. 'LuminonCore IDDCX Adapter' (P:0 D:0), name: '\\.\DISPLAY5'
+[2022.12.05-07.30.10:014][  0]LogWindows:    5. 'LuminonCore IDDCX Adapter' (P:0 D:0), name: '\\.\DISPLAY6'
+[2022.12.05-07.30.10:014][  0]LogWindows:    6. 'LuminonCore IDDCX Adapter' (P:0 D:0), name: '\\.\DISPLAY7'
+[2022.12.05-07.30.10:014][  0]LogWindows:    7. 'LuminonCore IDDCX Adapter' (P:0 D:0), name: '\\.\DISPLAY8'
+[2022.12.05-07.30.10:014][  0]LogWindows:    8. 'LuminonCore IDDCX Adapter' (P:0 D:0), name: '\\.\DISPLAY9'
+[2022.12.05-07.30.10:015][  0]LogWindows:    9. 'LuminonCore IDDCX Adapter' (P:0 D:0), name: '\\.\DISPLAY10'
+[2022.12.05-07.30.10:015][  0]LogWindows:    10. 'LuminonCore IDDCX Adapter' (P:0 D:0), name: '\\.\DISPLAY11'
+[2022.12.05-07.30.10:015][  0]LogWindows:    11. 'LuminonCore IDDCX Adapter' (P:0 D:0), name: '\\.\DISPLAY12'
+[2022.12.05-07.30.10:015][  0]LogWindows:    12. 'LuminonCore IDDCX Adapter' (P:0 D:0), name: '\\.\DISPLAY13'
+[2022.12.05-07.30.10:015][  0]LogWindows:    13. 'LuminonCore IDDCX Adapter' (P:0 D:0), name: '\\.\DISPLAY14'
+[2022.12.05-07.30.10:015][  0]LogWindows:    14. 'LuminonCore IDDCX Adapter' (P:0 D:0), name: '\\.\DISPLAY15'
+[2022.12.05-07.30.10:016][  0]LogWindows:    15. 'LuminonCore IDDCX Adapter' (P:0 D:0), name: '\\.\DISPLAY16'
+[2022.12.05-07.30.10:016][  0]LogWindows:    16. 'LuminonCore IDDCX Adapter' (P:0 D:0), name: '\\.\DISPLAY17'
+[2022.12.05-07.30.10:016][  0]LogWindows:    17. 'LuminonCore IDDCX Adapter' (P:0 D:0), name: '\\.\DISPLAY18'
+[2022.12.05-07.30.10:016][  0]LogWindows:    18. 'LuminonCore IDDCX Adapter' (P:0 D:0), name: '\\.\DISPLAY19'
+[2022.12.05-07.30.10:016][  0]LogWindows:    19. 'LuminonCore IDDCX Adapter' (P:0 D:0), name: '\\.\DISPLAY20'
+[2022.12.05-07.30.10:016][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.12.05-07.30.10:016][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3070
+[2022.12.05-07.30.10:016][  0]LogD3D12RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2022.12.05-07.30.10:016][  0]LogD3D12RHI:      Driver Date: 7-21-2022
+[2022.12.05-07.30.10:016][  0]LogRHI: Texture pool is 4583 MB (70% of 6547 MB)
+[2022.12.05-07.30.10:016][  0]LogD3D12RHI: Async texture creation enabled
+[2022.12.05-07.30.10:016][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.12.05-07.30.10:016][  0]LogD3D12RHI: HDR output is supported on adapter 0, display 1:
+[2022.12.05-07.30.10:016][  0]LogD3D12RHI: 		MinLuminance = 0.054800
+[2022.12.05-07.30.10:016][  0]LogD3D12RHI: 		MaxLuminance = 455.523193
+[2022.12.05-07.30.10:016][  0]LogD3D12RHI: 		MaxFullFrameLuminance = 455.523193
+[2022.12.05-07.30.10:027][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.12.05-07.30.10:033][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/LyraStarterGame.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Intermediate/TurnkeyReport_0.log" -log="E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Intermediate/TurnkeyLog_0.log" -project="E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/LyraStarterGame.uproject"  -platform=all'
+[2022.12.05-07.30.10:034][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files (x86)/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/LyraStarterGame.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Intermediate/TurnkeyReport_0.log" -log="E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Intermediate/TurnkeyLog_0.log" -project="E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/LyraStarterGame.uproject"  -platform=all" ]
+[2022.12.05-07.30.10:057][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.12.05-07.30.10:066][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.12.05-07.30.10:066][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.12.05-07.30.10:074][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.12.05-07.30.10:074][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.12.05-07.30.10:074][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.12.05-07.30.10:074][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.12.05-07.30.10:074][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.12.05-07.30.10:081][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.12.05-07.30.10:084][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.12.05-07.30.10:084][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.12.05-07.30.10:084][  0]LogTargetPlatformManager:   ADPCM
+[2022.12.05-07.30.10:084][  0]LogTargetPlatformManager:   PCM
+[2022.12.05-07.30.10:087][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.12.05-07.30.10:087][  0]LogTargetPlatformManager:   BINKA
+[2022.12.05-07.30.10:087][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.12.05-07.30.10:087][  0]LogTargetPlatformManager:   OGG
+[2022.12.05-07.30.10:087][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.12.05-07.30.10:087][  0]LogTargetPlatformManager:   OPUS
+[2022.12.05-07.30.10:131][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.12.05-07.30.10:131][  0]LogShaderCompilers: Display: Compiling shader autogen file: E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.12.05-07.30.10:136][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.12.05-07.30.10:136][  0]LogShaderCompilers: Display: Compiling shader autogen file: E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.12.05-07.30.10:139][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.12.05-07.30.10:141][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.12.05-07.30.10:141][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.12.05-07.30.10:141][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.05-07.30.10:141][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.12.05-07.30.10:165][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.12.05-07.30.10:165][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.05-07.30.10:165][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.12.05-07.30.10:174][  0]LogDerivedDataCache: Speed tests for C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.12.05-07.30.10:174][  0]LogDerivedDataCache: Display: Performance to C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=307.49MBs, RandomWriteSpeed=171.26MBs. Assigned SpeedClass 'Local'
+[2022.12.05-07.30.10:175][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.12.05-07.30.10:175][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.12.05-07.30.10:175][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.12.05-07.30.10:182][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.12.05-07.30.10:182][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.12.05-07.30.10:183][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Intermediate/Shaders/WorkingDirectory/26040/).
+[2022.12.05-07.30.10:183][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/095971B04D684BE13F5872B64376367B/'.
+[2022.12.05-07.30.10:183][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.12.05-07.30.10:183][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.12.05-07.30.14:095][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.12.05-07.30.14:095][  0]LogSlate: Using FreeType 2.10.0
+[2022.12.05-07.30.14:105][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.12.05-07.30.14:155][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.12.05-07.30.14:155][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=1497.1.14.1, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="InstalledSdk_InvalidVersionExists, Platform_ValidHostPrerequisites")
+[2022.12.05-07.30.14:155][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.12.05-07.30.14:155][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.12.05-07.30.14:155][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.18362.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.12.05-07.30.14:206][  0]LogInit: Using OS detected language (es-MX).
+[2022.12.05-07.30.14:206][  0]LogInit: Using OS detected locale (es-MX).
+[2022.12.05-07.30.14:207][  0]LogTextLocalizationManager: No specific localization for 'es-MX' exists, so 'es' will be used for the language.
+[2022.12.05-07.30.14:207][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.12.05-07.30.14:207][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.12.05-07.30.14:221][  0]LogAssetRegistry: FAssetRegistry took 0.0126 seconds to start up
+[2022.12.05-07.30.14:390][  0]LogPackageLocalizationCache: Processed 48 localized package path(s) for 1 prioritized culture(s) in 0.002953 seconds
+[2022.12.05-07.30.14:393][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.12.05-07.30.14:394][  0]LogTexture: Display: Texture Encode Speed: Final (cook).
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "DynamicRHI" and key "NullDrvFailure". The current translation is "¿Fallo de NullDrv?" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xf9aa387f) and the conflicting translation of "¿Error NullDrv?" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xf9aa387f) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "GenericPlatform" and key "FileManagerName". The current translation is "Gestor de archivos" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xa64cf298) and the conflicting translation of "Administrador de archivos" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xa64cf298) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Android_Back". The current translation is "Android Atrás" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xe718bc2d) and the conflicting translation of "Android: Atrás" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xe718bc2d) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Delete". The current translation is "Eliminar" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xe2e553c4) and the conflicting translation of "Suprimir" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xe2e553c4) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "End". The current translation is "Final" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xa230d452) and the conflicting translation of "Fin" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xa230d452) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "ForwardDelete". The current translation is "Fn+Supr" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x0df7504d) and the conflicting translation of "Fn+Suprimir" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x0df7504d) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "XBoxOne_Gamepad_Special_Left". The current translation is "Gamepad atrás" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x15e548d7) and the conflicting translation of "Mando: Atrás" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x15e548d7) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "PS4_Gamepad_FaceButton_Right". The current translation is "Gamepad círculo" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x2996d110) and the conflicting translation of "Mando: Círculo" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x2996d110) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Gamepad_FaceButton_Bottom". The current translation is "Gamepad botón frontal inferior" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x2f9dfd4c) and the conflicting translation of "Mando: Botón frontal abajo" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x2f9dfd4c) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Gamepad_FaceButton_Left". The current translation is "Gamepad botón frontal izquierdo" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x779640b1) and the conflicting translation of "Mando: Botón frontal izquierda" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x779640b1) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Gamepad_FaceButton_Right". The current translation is "Gamepad botón frontal derecho" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x179ade6a) and the conflicting translation of "Mando: Botón frontal derecha" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x179ade6a) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Gamepad_FaceButton_Top". The current translation is "Gamepad botón frontal superior" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x96dbd804) and the conflicting translation of "Mando: Botón frontal arriba" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x96dbd804) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "PS4_Gamepad_LeftTriggerAxis". The current translation is "Gamepad Eje L2" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xece986ce) and the conflicting translation of "Mando: Eje de L2" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xece986ce) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Gamepad_LeftShoulder". The current translation is "Gamepad gatillo izquierdo" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x8ee531f5) and the conflicting translation of "Mando: Botón superior izquierdo" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x8ee531f5) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Gamepad_LeftTrigger". The current translation is "Gamepad disparador izquierdo" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x6f11498d) and the conflicting translation of "Mando: Gatillo izquierdo" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x6f11498d) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Gamepad_LeftTriggerAxis". The current translation is "Gamepad Eje disparador izquierdo" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x3b2a5653) and the conflicting translation of "Mando: Eje del gatillo izquierdo" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x3b2a5653) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "PS4_Gamepad_Special_Right". The current translation is "Opciones Gamepad" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x9c6abe61) and the conflicting translation of "Mando: Opciones" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x9c6abe61) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "PS4_Gamepad_RightTriggerAxis". The current translation is "Gamepad eje R2" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xffa5b1b8) and the conflicting translation of "Mando: Eje de R2" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xffa5b1b8) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Gamepad_RightShoulder". The current translation is "Gamepad gatillo derecho" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xbfc1a78b) and the conflicting translation of "Mando: Botón superior derecho" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xbfc1a78b) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Gamepad_RightTrigger". The current translation is "Gamepad disparador derecho" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x4bca2005) and the conflicting translation of "Mando: Gatillo derecho" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x4bca2005) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Gamepad_RightTriggerAxis". The current translation is "Gamepad eje disparador derecho" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xe2f66b8e) and the conflicting translation of "Mando: Eje del gatillo derecho" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xe2f66b8e) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Gamepad_Special_Left". The current translation is "Gamepad especial izquierda" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xc9def1dc) and the conflicting translation of "Mando: Especial izquierda" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xc9def1dc) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Gamepad_Special_Right". The current translation is "Gamepad especial derecha" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x0e333e15) and the conflicting translation of "Mando: Especial derecha" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x0e333e15) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "PS4_Gamepad_FaceButton_Left". The current translation is "Gamepad cuadrado" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x53139649) and the conflicting translation of "Mando: Cuadrado" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x53139649) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "XBoxOne_Gamepad_Special_Right". The current translation is "Gamepad inicio" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xd8d791b9) and the conflicting translation of "Mando: Start" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xd8d791b9) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "PS4_Gamepad_Special_Left". The current translation is "Gamepad botón del panel táctil" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x3fa1c45b) and the conflicting translation of "Mando: Botón del panel táctil" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x3fa1c45b) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "PS4_Gamepad_FaceButton_Top". The current translation is "Gamepad triángulo" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x7db089e5) and the conflicting translation of "Mando: Triángulo" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x7db089e5) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Global_Back". The current translation is "Global atrás" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xd89b4588) and the conflicting translation of "Global: Atrás" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xd89b4588) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Global_Menu". The current translation is "Menú global" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x7eb42cb0) and the conflicting translation of "Global: Menú" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x7eb42cb0) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Global_Pause". The current translation is "Pausa global" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x0fcebfce) and the conflicting translation of "Global: Pausa" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x0fcebfce) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Global_Play". The current translation is "Reproducir global" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x9f86c7f2) and the conflicting translation of "Global: Jugar" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x9f86c7f2) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Global_View". The current translation is "Vista global" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x3021a0cf) and the conflicting translation of "Global: Ver" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x3021a0cf) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Home". The current translation is "Inicio" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xac0663c2) and the conflicting translation of "Base" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xac0663c2) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "LeftAlt". The current translation is "Alt izquierda" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x94abc9dd) and the conflicting translation of "Alt izquierdo" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x94abc9dd) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "LeftCommand". The current translation is "Cmd izquierda" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xe4230043) and the conflicting translation of "Cmd izquierdo" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xe4230043) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "LeftControl". The current translation is "Ctrl izquierda" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xebbedeb5) and the conflicting translation of "Ctrl izquierdo" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xebbedeb5) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "LeftShift". The current translation is "Shift izquierda" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x68b5e5ca) and the conflicting translation of "Mayús izquierdo" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x68b5e5ca) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "MouseScrollDown". The current translation is "Rueda del ratón hacia abajo" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x89746973) and the conflicting translation of "Rueda del ratón abajo" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x89746973) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "MouseScrollUp". The current translation is "Rueda del ratón hacia arriba" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x83f972ed) and the conflicting translation of "Rueda del ratón arriba" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x83f972ed) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "NumLock". The current translation is "Bloq Num" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x18c86328) and the conflicting translation of "Bloq Núm" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x18c86328) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "PageDown". The current translation is "Página abajo" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xaee4df15) and the conflicting translation of "Avanzar página" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xaee4df15) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "PageUp". The current translation is "Página arriba" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x4cef0048) and the conflicting translation of "Retroceder página" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x4cef0048) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "RightAlt". The current translation is "Alt derecha" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x1f9830e6) and the conflicting translation of "Alt derecho" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x1f9830e6) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "RightCommand". The current translation is "Cmd derecha" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x6f10f978) and the conflicting translation of "Cmd derecho" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x6f10f978) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "RightControl". The current translation is "Ctrl derecha" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xf880d6d2) and the conflicting translation of "Ctrl derecho" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xf880d6d2) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "RightMouseButton". The current translation is "Botón derecho del ratón" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x854aafc2) and the conflicting translation of "Botón secundario del ratón" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x854aafc2) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "RightShift". The current translation is "Shift derecha" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x052c216b) and the conflicting translation of "Mayús derecho" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x052c216b) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "RotationRate". The current translation is "Proporción de la rotación" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x79265673) and the conflicting translation of "Tasa de rotación" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x79265673) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "SpaceBar". The current translation is "Barra de espacio" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x46812822) and the conflicting translation of "Barra espaciadora" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x46812822) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Tab". The current translation is "Pestaña" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xc9c638b1) and the conflicting translation of "Tabulador" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xc9c638b1) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "ThumbMouseButton". The current translation is "Botón lateral del ratón" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xf1fb909e) and the conflicting translation of "Botón del pulgar del ratón" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xf1fb909e) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "ThumbMouseButton2". The current translation is "Botón lateral del ratón 2" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x19b5cddd) and the conflicting translation of "Botón del pulgar del ratón 2" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x19b5cddd) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "InputKeys" and key "Up". The current translation is "Subir" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0x13db8257) and the conflicting translation of "Arriba" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0x13db8257) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "LinuxDynamicRHI" and key "RequiredOpenGL". The current translation is "Es necesario OpenGL 3.2 para ejecutar el motor." (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xc517d6b4) and the conflicting translation of "Se necesita OpenGL 4.3 para ejecutar el motor." (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xc517d6b4) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "UnrealBuildConfigurations" and key "DebugName". The current translation is "Depurar" (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xb1f0228a) and the conflicting translation of "Depuración" (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xb1f0228a) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogTextLocalizationResource: Warning: Text translation conflict for namespace "WindowsDynamicRHI" and key "RequiredOpenGL". The current translation is "Es necesario OpenGL 3.2 para ejecutar el motor." (from "../../../Engine/Content/Localization/Engine/es/Engine.locres" and source hash 0xc517d6b4) and the conflicting translation of "Se necesita OpenGL 4.3 para ejecutar el motor." (from "E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Localization/EngineOverrides/es/EngineOverrides.locres" and source hash 0xc517d6b4) will be ignored.
+[2022.12.05-07.30.14:872][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.12.05-07.30.14:872][  0]LogDeviceProfileManager: Active device profile: [0000049EB6FD5240][0000049EB2DC7800 50] WindowsEditor
+[2022.12.05-07.30.14:872][  0]LogDeviceProfileManager: Profiles: [0000049EB6FD4D00][0000049EB2DC2800 50] Windows, [0000049EB6FD5240][0000049EB2DC7800 50] WindowsEditor, [0000049EB6FD4280][0000049EA325A000 50] WindowsServer, [0000049EB6FD5400][0000049EB2DC0000 50] WindowsClient, [0000049EB6FD4600][0000049EB6F95400 50] Mobile, [0000049EB6FD47C0][0000049EB2A3A000 50] IOS, [0000049EB6FD0E00][0000049EB7220000 50] IOS_Low, [0000049EB6FD0380][0000049EB7222800 50] iPadAir2, [0000049EB6FD1340][0000049EB7225000 50] IOS_Mid, [0000049EB6FD24C0][0000049EB7227800 50] iPadAir3, [0000049EB6FD4B40][0000049EB722C800 50] iPadAir4, [0000049EB6FD4980][0000049EB722A000 50] iPadMini4, [0000049EB6FD0540][0000049EB71E2800 50] iPadMini5, [0000049EB6FD3800][0000049EB71E0000 50] IOS_High, [0000049EB6FD6040][0000049EB71E5000 50] iPadMini6, [0000049EB6FD0700][0000049EB71EA000 50] iPodTouch7, [0000049EB6FD2F40][0000049EB71EC800 50] iPhone6S, [0000049EB6FD3100][0000049EB71E7800 50] iPhone6SPlus, [0000049EB6FD2300][0000049EB71C2800 50] iPhone7, [0000049EB6FD1C00][0000049EB71C5000 50] iPhone7Plus, [0000049EB6FD32C0][0000049EB71C7800 50] iPhoneSE, [0000049EB6FD2840][0000049EB71CA000 50] iPhone8, [0000049EB6FD4440][0000049EB71CC800 50] iPhone8Plus, [0000049EB6FD3F00][0000049EB71C0000 50] iPhoneX, [0000049EB6FD6AC0][0000049EB7202800 50] iPhoneXS, [0000049EB6FD0A80][0000049EB7205000 50] iPhoneXSMax, [0000049EB6FD55C0][0000049EB7207800 50] iPhoneXR, [0000049EB6FD3640][0000049EB720A000 50] iPhone11, [0000049EB6FD2140][0000049EB720C800 50] iPhone11Pro, [0000049EB6FD2D80][0000049EB7200000 50] iPhone11ProMax, [0000049EB6FD3B80][0000049EB7242800 50] iPhoneSE2, [0000049EB6FD5E80][0000049EB7245000 50] iPhone12Mini, [0000049EB6FD5CC0][0000049EB7247800 50] iPhone12, [0000049EB6FD0FC0][0000049EB724A000 50] iPhone12Pro, [0000049EB6FD6740][0000049EB724C800 50] iPhone12ProMax, [0000049EB6FD8A40][0000049EB7240000 50] IOS_Epic, [0000049EB6FD8880][0000049EB7260000 50] iPhone13Mini, [0000049EB6FD08C0][0000049EB7265000 50] iPhone13, [0000049EB6FD8340][0000049EB7267800 50] iPhone13Pro, [0000049EB6FD3D40][0000049EB726A000 50] iPhone13ProMax, [0000049EB6FD7380][0000049EB726C800 50] iPadPro, [0000049EB6FD6200][0000049EB7262800 50] iPadPro105, [0000049EB6FD1180][0000049EB7272800 50] iPadPro129, [0000049EB6FD2680][0000049EB7275000 50] iPadPro97, [0000049EB6FD8C00][0000049EB7277800 50] iPadPro2_129, [0000049EB6FD5940][0000049EB727A000 50] iPad5, [0000049EB6FD7E00][0000049EB727C800 50] iPad6, [0000049EB6FD39C0][0000049EB7270000 50] iPad7, [0000049EB6FD7C40][0000049EB71A2800 50] iPad8, [0000049EB6FD2A00][0000049EB71A5000 50] iPad9, [0000049EB6FD7540][0000049EB71A7800 50] iPadPro11, [0000049EB6FD1500][0000049EB71AA000 50] iPadPro2_11, [0000049EB6FD6C80][0000049EB71AC800 50] iPadPro3_11, [0000049EB6FD6E40][0000049EB71A0000 50] iPadPro3_129, [0000049EB6FD5080][0000049EB72A2800 50] iPadPro4_129, [0000049EB6FD5B00][0000049EB72A5000 50] iPadPro5_129, [0000049EB6FD40C0][0000049EB72A7800 50] AppleTV, [0000049EB6FD8DC0][0000049EB72AA000 50] AppleTV4K, [0000049EB6FD7FC0][0000049EB72AC800 50] TVOS, [0000049EB6FDB280][0000049EB72A0000 50] Mac, [0000049EB6FDB600][0000049EB72B0000 50] MacEditor, [0000049EB6FDA800][0000049EB72B5000 50] MacClient, [0000049EB6FD7A80][0000049EB72B7800 50] MacServer, [0000049EB6FD9F40][0000049EB72B2800 50] Linux, [0000049EB6FD9D80][0000049EB72BA000 50] LinuxEditor, [0000049EB6FD9140][0000049EB72BC800 50] LinuxArm64Editor, [0000049EB6FD8180][0000049EAD042800 50] LinuxArm64, [0000049EB6FD2BC0][0000049EAD045000 50] LinuxClient, [0000049EB6FD1DC0][0000049EAD047800 50] LinuxArm64Client, [0000049EB6FD1880][0000049EAD04A000 50] LinuxServer, [0000049EB6FD7000][0000049EAD04C800 50] LinuxArm64Server, [0000049EB6FD9BC0][0000049EAD040000 50] Android, [0000049EB6FDA480][0000049EAD052800 50] Android_Preview_OpenGL, [0000049EB6FD6900][0000049EAD055000 50] Android_Preview_Vulkan, [0000049EB6FD9840][0000049EAD057800 50] Android_Low, [0000049EB6FD01C0][0000049EAD05A000 50] Android_Mid, [0000049EB6FDAF00][0000049EAD05C800 50] Android_High, [0000049EB6FDA640][0000049EAD050000 50] Android_Default, [0000049EB6FD9680][0000049EAD062800 50] Android_Adreno4xx, [0000049EB6FD5780][0000049EAD065000 50] Android_Adreno5xx_Low, [0000049EB6FD3480][0000049EAD067800 50] Android_Adreno5xx, [0000049EB6FDA9C0][0000049EAD06A000 50] Android_Adreno6xx, [0000049EB6FD9300][0000049EAD06C800 50] Android_Adreno6xx_Vulkan, [0000049EB6FD7700][0000049EAD060000 50] Android_Adreno7xx, [0000049EB6FDBD00][0000049EB7282800 50] Android_Adreno7xx_Vulkan, [0000049EB6FD6580][0000049EB7285000 50] Android_Mali_T6xx, [0000049EB6FD63C0][0000049EB7287800 50] Android_Mali_T7xx, [0000049EB6FD8F80][0000049EB728A000 50] Android_Mali_T8xx, [0000049EB6FDAD40][0000049EB728C800 50] Android_Mali_G71, [0000049EB6FD9A00][0000049EB7280000 50] Android_Mali_G72, [0000049EB6FDA2C0][0000049EB7292800 50] Android_Mali_G72_Vulkan, [0000049EB6FDB7C0][0000049EB7295000 50] Android_Mali_G76, [0000049EB6FDBEC0][0000049EB7297800 50] Android_Mali_G76_Vulkan, [0000049EB6FDCCC0][0000049EB729A000 50] Android_Mali_G77, [0000049EB6FD1A40][0000049EB729C800 50] Android_Mali_G77_Vulkan, [0000049EB6FDB440][0000049EB7290000 50] Android_Mali_G78, [0000049EB6FDB980][0000049EAD072800 50] Android_Mali_G78_Vulkan, [0000049EB6FD16C0][0000049EAD075000 50] Android_Mali_G710, [0000049EB6FD94C0][0000049EAD077800 50] Android_Mali_G710_Vulkan, [0000049EB6FDC780][0000049EAD07A000 50] Android_Xclipse_920, [0000049EB6FDC5C0][0000049EAD07C800 50] Android_Xclipse_920_Vulkan, [0000049EB6FDCE80][0000049EAD070000 50] Android_Vulkan_SM5, [0000049EB6FD86C0][0000049EAD082800 50] Android_PowerVR_G6xxx, [0000049EB6FDC940][0000049EAD085000 50] Android_PowerVR_GT7xxx, [0000049EB6FDB0C0][0000049EAD087800 50] Android_PowerVR_GE8xxx, [0000049EB6FDC400][0000049EAD08A000 50] Android_PowerVR_GM9xxx, [0000049EB6FD71C0][0000049EAD08C800 50] Android_PowerVR_GM9xxx_Vulkan, [0000049EB6FD0C40][0000049EAD080000 50] Android_TegraK1, [0000049EB6FDC240][0000049EAD092800 50] Android_Unknown_Vulkan, [0000049EB6FD8500][0000049EAD095000 50] Oculus_Quest, [0000049EB6FDEC40][0000049EAD097800 50] Oculus_Quest2, [0000049EB6FDD580][0000049EAD09A000 50] HoloLens, 
+[2022.12.05-07.30.14:873][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.12.05-07.30.14:934][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO On Lambda=30, Effort=Normal
+[2022.12.05-07.30.15:147][  0]LogTexture: Display: Building textures: /Engine/EditorResources/MatineeCam_D.MatineeCam_D (TFO_AutoDXT, 64X64 X1X1) (Required Memory Estimate: 0.078125 MB), EncodeSpeed: Final
+[2022.12.05-07.30.15:147][  0]LogTexture: Display: Building textures: /Engine/EngineMaterials/T_Default_Material_Grid_N.T_Default_Material_Grid_N (TFO_BC5, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Final
+[2022.12.05-07.30.15:147][  0]LogTexture: Display: Building textures: /Engine/EngineMaterials/T_Default_Material_Grid_M.T_Default_Material_Grid_M (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.15:147][  0]LogTexture: Display: Building textures: /Engine/EngineMaterials/DefaultDiffuse.DefaultDiffuse (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.15:147][  0]LogTexture: Display: Waiting for textures to be ready 3/4 (/Engine/EngineMaterials/DefaultDiffuse) ...
+[2022.12.05-07.30.15:366][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.12.05-07.30.15:366][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.12.05-07.30.15:366][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.12.05-07.30.15:366][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.12.05-07.30.15:366][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.12.05-07.30.15:471][  0]LogTexture: Display: Building textures: /Engine/EditorResources/S_CameraShakeSource.S_CameraShakeSource (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Final
+[2022.12.05-07.30.15:471][  0]LogTexture: Display: Building textures: /Engine/EngineResources/WhiteSquareTexture.WhiteSquareTexture (TFO_AutoDXT, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Final
+[2022.12.05-07.30.15:471][  0]LogTexture: Display: Building textures: /Engine/EngineResources/Black.Black (TFO_AutoDXT, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Final
+[2022.12.05-07.30.15:471][  0]LogNetVersion: LyraStarterGame 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 838218819)
+[2022.12.05-07.30.15:796][  0]LogTexture: Display: Building textures: /Engine/EngineResources/DefaultTexture.DefaultTexture (TFO_DXT1, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Final
+[2022.12.05-07.30.15:796][  0]LogTexture: Display: Building textures: /Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.DebugNumberPeriod (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Final
+[2022.12.05-07.30.15:796][  0]LogTexture: Display: Building textures: /Engine/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.DebugNumberStrip (TFO_AutoDXT, 128X1024 X1X1) (Required Memory Estimate: 2.500 MB), EncodeSpeed: Final
+[2022.12.05-07.30.15:796][  0]LogTexture: Display: Building textures: /Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.flipbook (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Final
+[2022.12.05-07.30.15:796][  0]LogTexture: Display: Building textures: /Engine/EditorResources/T_EditorHelp.T_EditorHelp (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.15:796][  0]LogTexture: Display: Building textures: /Engine/EditorMaterials/MatineeGroups/MAT_Groups_Float.MAT_Groups_Float (TFO_AutoDXT, 16X16 X1X1) (Required Memory Estimate: 0.004883 MB), EncodeSpeed: Final
+[2022.12.05-07.30.15:796][  0]LogTexture: Display: Building textures: /Engine/EditorMaterials/MatineeGroups/MAT_Groups_Anim.MAT_Groups_Anim (TFO_AutoDXT, 16X16 X1X1) (Required Memory Estimate: 0.004883 MB), EncodeSpeed: Final
+[2022.12.05-07.30.15:796][  0]LogTexture: Display: Building textures: /Engine/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.MAT_Groups_AudioMaster (TFO_AutoDXT, 16X16 X1X1) (Required Memory Estimate: 0.004883 MB), EncodeSpeed: Final
+[2022.12.05-07.30.15:796][  0]LogTexture: Display: Building textures: /Engine/EditorMaterials/MatineeGroups/MAT_ColorTrack.MAT_ColorTrack (TFO_AutoDXT, 16X16 X1X1) (Required Memory Estimate: 0.004883 MB), EncodeSpeed: Final
+[2022.12.05-07.30.15:796][  0]LogTexture: Display: Building textures: /Engine/EditorMaterials/MatineeGroups/MAT_Groups_Fade.MAT_Groups_Fade (TFO_AutoDXT, 16X16 X1X1) (Required Memory Estimate: 0.004883 MB), EncodeSpeed: Final
+[2022.12.05-07.30.15:796][  0]LogTexture: Display: Building textures: /Engine/EditorMaterials/MatineeGroups/MAT_Groups_Director.MAT_Groups_Director (TFO_AutoDXT, 16X16 X1X1) (Required Memory Estimate: 0.004883 MB), EncodeSpeed: Final
+[2022.12.05-07.30.15:796][  0]LogTexture: Display: Building textures: /Engine/EditorMaterials/MatineeGroups/MAT_Groups_Event.MAT_Groups_Event (TFO_AutoDXT, 16X16 X1X1) (Required Memory Estimate: 0.004883 MB), EncodeSpeed: Final
+[2022.12.05-07.30.15:796][  0]LogTexture: Display: Building textures: /Engine/EditorMaterials/MatineeGroups/MAT_Groups_Move.MAT_Groups_Move (TFO_AutoDXT, 16X16 X1X1) (Required Memory Estimate: 0.004883 MB), EncodeSpeed: Final
+[2022.12.05-07.30.15:796][  0]LogTexture: Display: Building textures: /Engine/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.MAT_Groups_Slomo (TFO_AutoDXT, 16X16 X1X1) (Required Memory Estimate: 0.004883 MB), EncodeSpeed: Final
+[2022.12.05-07.30.15:796][  0]LogTexture: Display: Building textures: /Engine/EditorMaterials/MatineeGroups/MAT_Groups_Sound.MAT_Groups_Sound (TFO_AutoDXT, 16X16 X1X1) (Required Memory Estimate: 0.004883 MB), EncodeSpeed: Final
+[2022.12.05-07.30.15:796][  0]LogTexture: Display: Building textures: /Engine/EditorMaterials/MAT_Groups_Toggle.MAT_Groups_Toggle (TFO_AutoDXT, 16X16 X1X1) (Required Memory Estimate: 0.004883 MB), EncodeSpeed: Final
+[2022.12.05-07.30.15:796][  0]LogTexture: Display: Building textures: /Engine/EditorMaterials/MAT_Groups_Visibility.MAT_Groups_Visibility (TFO_AutoDXT, 16X16 X1X1) (Required Memory Estimate: 0.004883 MB), EncodeSpeed: Final
+[2022.12.05-07.30.15:796][  0]LogTexture: Display: Building textures: /Engine/EngineResources/DefaultTextureCube.DefaultTextureCube (TFO_DXT1, 128X128 X1X1) (Required Memory Estimate: 1.875 MB), EncodeSpeed: Final
+[2022.12.05-07.30.15:796][  0]LogTexture: Display: Building textures: /Engine/EngineResources/DefaultVolumeTexture2D.DefaultVolumeTexture2D (TFO_AutoDXT, 8X8 X1X1) (Required Memory Estimate: 0.001221 MB), EncodeSpeed: Final
+[2022.12.05-07.30.15:796][  0]LogTexture: Display: Building textures: /Engine/EditorMaterials/MatineeGroups/MAT_Groups_Vector.MAT_Groups_Vector (TFO_AutoDXT, 16X16 X1X1) (Required Memory Estimate: 0.004883 MB), EncodeSpeed: Final
+[2022.12.05-07.30.15:796][  0]LogTexture: Display: Building textures: /Engine/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.T_VolumeNoiseErosion32 (TFO_AutoDXT, 32X32 X1X1) (Required Memory Estimate: 0.625 MB), EncodeSpeed: Final
+[2022.12.05-07.30.16:287][  0]LogTexture: Display: Building textures: /Engine/EngineSky/VolumetricClouds/CloudGradientTexture.CloudGradientTexture (TFO_AutoDXT, 32X16 X1X1) (Required Memory Estimate: 0.009766 MB), EncodeSpeed: Final
+[2022.12.05-07.30.16:287][  0]LogTexture: Display: Building textures: /Engine/EngineSky/VolumetricClouds/T_NoiseErosion.T_NoiseErosion (TFO_AutoDXT, 1024X32 X1X1) (Required Memory Estimate: 0.625 MB), EncodeSpeed: Final
+[2022.12.05-07.30.16:287][  0]LogTexture: Display: Building textures: /Engine/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.T_VolumeNoiseShape64 (TFO_AutoDXT, 64X64 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.16:287][  0]LogTexture: Display: Building textures: /Engine/EngineSky/VolumetricClouds/T_NoiseShape64.T_NoiseShape64 (TFO_AutoDXT, 4096X64 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.16:287][  0]LogTexture: Display: Building textures: /Engine/EngineSky/VolumetricClouds/CloudWeatherTexture.CloudWeatherTexture (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.16:287][  0]LogTexture: Display: Building textures: /Engine/VREditor/LaserPointer/VR_LaserPower_01.VR_LaserPower_01 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.16:287][  0]SourceControl: El control de código fuente está desactivado
+[2022.12.05-07.30.16:355][  0]LogTexture: Display: Building textures: /Engine/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.PSysThumbnail_NoImage (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Final
+[2022.12.05-07.30.16:355][  0]LogTexture: Display: Building textures: /Engine/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.PSysThumbnail_OOD (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Final
+[2022.12.05-07.30.16:355][  0]SourceControl: El control de código fuente está desactivado
+[2022.12.05-07.30.16:355][  0]SourceControl: El control de código fuente está desactivado
+[2022.12.05-07.30.16:891][  0]LogTexture: Display: Building textures: /Engine/EditorResources/S_FTest.S_FTest (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Final
+[2022.12.05-07.30.16:986][  0]LogTexture: Display: Building textures: /Paper2D/PlaceholderTextures/DummySpriteTexture.DummySpriteTexture (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Final
+[2022.12.05-07.30.16:986][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: C108844B4625AA9FAEA3A08616B97CD8 | Instance: 095DD65F41D0EE7DBA3F9DBCFF347CAD (ROJA-26040).
+[2022.12.05-07.30.17:007][  0]LogCollectionManager: Loaded 0 collections in 0.002059 seconds
+[2022.12.05-07.30.17:009][  0]LogFileCache: Scanning file cache for directory 'E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Saved/Collections/' took 0.00s
+[2022.12.05-07.30.17:009][  0]LogFileCache: Scanning file cache for directory 'E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Developers/Brian/Collections/' took 0.00s
+[2022.12.05-07.30.17:009][  0]LogFileCache: Scanning file cache for directory 'E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Content/Collections/' took 0.00s
+[2022.12.05-07.30.17:009][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.12.05-07.30.17:029][  0]LogGauntlet: Display: Gauntlet Initialized
+[2022.12.05-07.30.17:085][  0]LogPython: Using Python 3.9.7
+[2022.12.05-07.30.17:985][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.12.05-07.30.17:989][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.12.05-07.30.18:026][  0]LogAudioModulation: Display: Initialized Audio Modulation Parameter 'BitDepth'
+[2022.12.05-07.30.18:029][  0]LogAudioModulation: Display: Initialized Audio Modulation Parameter 'HPFCutoffFrequency'
+[2022.12.05-07.30.18:033][  0]LogAudioModulation: Display: Initialized Audio Modulation Parameter 'LowRateFrequency'
+[2022.12.05-07.30.18:035][  0]LogAudioModulation: Display: Initialized Audio Modulation Parameter 'LPFCutoffFrequency'
+[2022.12.05-07.30.18:038][  0]LogAudioModulation: Display: Initialized Audio Modulation Parameter 'Pan'
+[2022.12.05-07.30.18:040][  0]LogAudioModulation: Display: Initialized Audio Modulation Parameter 'Pitch'
+[2022.12.05-07.30.18:043][  0]LogAudioModulation: Display: Initialized Audio Modulation Parameter 'SampleRate'
+[2022.12.05-07.30.18:046][  0]LogAudioModulation: Display: Initialized Audio Modulation Parameter 'TimeOfDay'
+[2022.12.05-07.30.18:049][  0]LogAudioModulation: Display: Initialized Audio Modulation Parameter 'Volume'
+[2022.12.05-07.30.18:072][  0]LogAudioModulation: Audio Modulation Initialized
+[2022.12.05-07.30.18:127][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.008 s
+[2022.12.05-07.30.18:191][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.12.05-07.30.18:196][  0]LogMetasoundEngine: MetaSound Engine Initialized
+[2022.12.05-07.30.18:273][  0]LogSteamShared: Display: Loading Steam SDK 1.51
+[2022.12.05-07.30.18:274][  0]LogSteamShared: Steam SDK Loaded!
+[2022.12.05-07.30.18:503][  0]LogTexture: Display: Building textures: /Engine/EngineMaterials/BlendFunc_DefBase.BlendFunc_DefBase (TFO_AutoDXT, 16X16 X1X1) (Required Memory Estimate: 0.004883 MB), EncodeSpeed: Final
+[2022.12.05-07.30.18:503][  0]LogTexture: Display: Building textures: /Engine/EngineMaterials/BlendFunc_DefBlend.BlendFunc_DefBlend (TFO_AutoDXT, 16X16 X1X1) (Required Memory Estimate: 0.004883 MB), EncodeSpeed: Final
+[2022.12.05-07.30.18:503][  0]SourceControl: El control de código fuente está desactivado
+[2022.12.05-07.30.18:508][  0]LogUProjectInfo: Found projects:
+[2022.12.05-07.30.18:744][  0]LogOpenImageDenoise: OIDN starting up
+[2022.12.05-07.30.18:962][  0]LogTexture: Display: Building textures: /Engine/ArtTools/RenderToTexture/Textures/127grey.127grey (TFO_AutoDXT, 64X64 X1X1) (Required Memory Estimate: 0.078125 MB), EncodeSpeed: Final
+[2022.12.05-07.30.18:962][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.12.05-07.30.18:978][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.05-07.30.18:978][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.05-07.30.19:090][  0]LogEOSSDK: Initializing EOSSDK Version:1.14.2-20976885
+[2022.12.05-07.30.19:143][  0]LogSockets: SteamSockets: Disabled due to no Steam OSS running.
+[2022.12.05-07.30.19:179][  0]LogUObjectArray: 33622 objects as part of root set at end of initial load.
+[2022.12.05-07.30.19:179][  0]LogUObjectAllocator: 10365640 out of 0 bytes used by permanent object pool.
+[2022.12.05-07.30.19:179][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.12.05-07.30.19:296][  0]LogMoviePlayer: Warning: PassLoadingScreenWindowBackToGame failed.  No Window
+[2022.12.05-07.30.19:296][  0]LogEngine: Initializing Engine...
+[2022.12.05-07.30.19:297][  0]LogGameFeatures: Initializing game features subsystem
+[2022.12.05-07.30.20:140][  0]LogTexture: Display: Building textures: /Engine/EngineMaterials/DefaultWhiteGrid.DefaultWhiteGrid (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Final
+[2022.12.05-07.30.20:140][  0]LogTexture: Display: Building textures: /Engine/EngineMaterials/DefaultWhiteGrid_Low.DefaultWhiteGrid_Low (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Final
+[2022.12.05-07.30.20:140][  0]LogTexture: Display: Building textures: /Engine/EngineMaterials/InvalidLightmapSettings.InvalidLightmapSettings (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.20:140][  0]LogTexture: Display: Building textures: /Engine/EngineMaterials/MiniFont.MiniFont (TFO_AutoDXT, 512X8 X1X1) (Required Memory Estimate: 0.078125 MB), EncodeSpeed: Final
+[2022.12.05-07.30.20:140][  0]LogGameFeatures: Scanning for built-in game feature plugins
+[2022.12.05-07.30.20:141][  0]LogPackageName: Display: FPackageName: Mount point added: 'E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Plugins/GameFeatures/ShooterMaps/Content/' mounted to '/ShooterMaps/'
+[2022.12.05-07.30.20:147][  0]LogPackageLocalizationCache: Processed 1 localized package path(s) for 1 prioritized culture(s) in 0.000079 seconds
+[2022.12.05-07.30.20:148][  0]LogPackageName: Display: FPackageName: Mount point added: 'E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Plugins/GameFeatures/ShooterCore/Content/' mounted to '/ShooterCore/'
+[2022.12.05-07.30.20:153][  0]LogPackageLocalizationCache: Processed 1 localized package path(s) for 1 prioritized culture(s) in 0.000058 seconds
+[2022.12.05-07.30.39:818][  0]LogTexture: Display: Building textures: /Game/Effects/Textures/Decals/hexagon.hexagon (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.39:818][  0]LogTexture: Display: Building textures: /Game/Effects/Textures/Decals/chippedcracks.chippedcracks (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.39:818][  0]LogTexture: Display: Building textures: /Game/Effects/Textures/General/Good64x64TilingNoiseHighFreq.Good64x64TilingNoiseHighFreq (TFO_AutoDXT, 64X64 X1X1) (Required Memory Estimate: 0.078125 MB), EncodeSpeed: Final
+[2022.12.05-07.30.39:818][  0]LogTexture: Display: Building textures: /Game/Effects/Camera/Damage/Textures/Hit_Regular_Glitch.Hit_Regular_Glitch (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.39:818][  0]LogTexture: Display: Building textures: /Game/Effects/Textures/General/blurry_texture.blurry_texture (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.39:818][  0]LogTexture: Display: Building textures: /Game/Effects/Textures/Flipbooks/LDR_Squib_2_rop_comp1_0001_flipbook.LDR_Squib_2_rop_comp1_0001_flipbook (TFO_BC7, 8192X8192 X1X1) (Required Memory Estimate: 1280.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.39:818][  0]LogTexture: Display: Building textures: /Game/Effects/Textures/Flipbooks/SmokeSwirl_3_Flipbook_CHANNELPACK.SmokeSwirl_3_Flipbook_CHANNELPACK (TFO_BC7, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.39:818][  0]LogTexture: Display: Building textures: /Game/Effects/Textures/Decals/T_ExplsionDigital.T_ExplsionDigital (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.39:819][  0]LogTexture: Display: Building textures: /Game/Effects/Textures/BlastGraphics/T_ExplosionFlare.T_ExplosionFlare (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.39:819][  0]LogTexture: Display: Building textures: /Game/Effects/Textures/Decals/T_ExplosionDecal.T_ExplosionDecal (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.39:819][  0]LogTexture: Display: Building textures: /Game/Effects/Particles/Impacts/Emitters/NE_ImpactParticleLight.NE_ImpactParticleLight:Texture2D_0 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.39:819][  0]LogTexture: Display: Building textures: /Game/Effects/Textures/Rocks/Debris_Chunk1_BaseColor.Debris_Chunk1_BaseColor (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.39:819][  0]LogTexture: Display: Building textures: /Game/Effects/Textures/Rocks/Debris_Chunk3_BaseColor.Debris_Chunk3_BaseColor (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.39:819][  0]LogTexture: Display: Building textures: /Game/Effects/Textures/Rocks/Debris_Chunk2_BaseColor.Debris_Chunk2_BaseColor (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.39:819][  0]LogTexture: Display: Building textures: /Game/Effects/Textures/MuzzleFlash/T_MuzzleFlash_Directional_01_MSK.T_MuzzleFlash_Directional_01_MSK (TFO_BC7, 2048X1024 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.39:819][  0]LogTexture: Display: Building textures: /Game/Effects/Textures/Cutouts/T_cutout_gradient_vertical.T_cutout_gradient_vertical (TFO_AutoDXT, 8X512 X1X1) (Required Memory Estimate: 0.078125 MB), EncodeSpeed: Final
+[2022.12.05-07.30.39:819][  0]LogTexture: Display: Building textures: /Game/Effects/Textures/Flipbooks/T_Explosion_Areal_E64.T_Explosion_Areal_E64 (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 1280.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.39:819][  0]LogTexture: Display: Building textures: /Game/UI/Menu/Art/T_UI_Icon_Team_Engineering.T_UI_Icon_Team_Engineering (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.39:819][  0]LogTexture: Display: Building textures: /Game/UI/Menu/Art/T_UI_Icon_Team_Engineering_Glow.T_UI_Icon_Team_Engineering_Glow (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.39:819][  0]LogTexture: Display: Building textures: /Game/UI/Menu/Art/T_UI_Icon_Team_Art.T_UI_Icon_Team_Art (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.39:819][  0]LogTexture: Display: Building textures: /Game/UI/Menu/Art/T_UI_Icon_Team_Art_Glow.T_UI_Icon_Team_Art_Glow (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.39:819][  0]LogTexture: Display: Building textures: /Game/Effects/Textures/Decals/glass_normal2x2.glass_normal2x2 (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.39:819][  0]LogTexture: Display: Building textures: /Game/Weapons/Grenade/Textures/T_Grenade_Masks.T_Grenade_Masks (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.39:819][  0]LogTexture: Display: Building textures: /Game/Effects/Textures/Decals/glass_mask2x2.glass_mask2x2 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.43:658][  0]LogTexture: Display: Building textures: /Game/Effects/Textures/Rocks/ultkedqjw_4K_Roughness.ultkedqjw_4K_Roughness (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.43:658][  0]LogTexture: Display: Building textures: /Game/UI/Menu/Art/T_UI_Icon_SimpleArrow.T_UI_Icon_SimpleArrow (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Final
+[2022.12.05-07.30.43:658][  0]LogTexture: Display: Building textures: /Game/UI/Menu/Art/T_UI_LyraLogo.T_UI_LyraLogo (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 10.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.43:658][  0]LogTexture: Display: Building textures: /Game/UI/Hud/Art/T_UI_Effects_TriHalftone_Mask.T_UI_Effects_TriHalftone_Mask (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.43:658][  0]LogTexture: Display: Building textures: /Game/Effects/Textures/General/textureNoise.textureNoise (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.43:658][  0]LogTexture: Display: Building textures: /Game/Effects/Textures/LaunchPad/launchbar_normal.launchbar_normal (TFO_BC5, 1028X1028 X1X1) (Required Memory Estimate: 20.156555 MB), EncodeSpeed: Final
+[2022.12.05-07.30.43:658][  0]LogTexture: Display: Building textures: /Game/Effects/Textures/LaunchPad/launchbar_mask.launchbar_mask (TFO_AutoDXT, 1028X1028 X1X1) (Required Memory Estimate: 20.156555 MB), EncodeSpeed: Final
+[2022.12.05-07.30.43:658][  0]LogTexture: Display: Building textures: /Game/Weapons/Grenade/Textures/T_Grenade_D.T_Grenade_D (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.43:737][  0]LogTexture: Display: Building textures: /Game/Weapons/Grenade/Textures/T_Grenade_N.T_Grenade_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.48:532][  0]LogTexture: Display: Building textures: /Game/Weapons/Grenade/Textures/T_Grenade_AORM.T_Grenade_AORM (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.48:532][  0]LogNiagaraEditor: Niagara graph NiagaraGraph /Game/Effects/Particles/Environmental/NS_WallPortal.NS_WallPortal:SystemDisturbed.NiagaraScriptSource_0.NiagaraGraph_0: The default value declaration for the variable 'Module.ActiveTime' is not consistent between the graph and the metadata.
+  Either change the default mode to 'custom' or check the input pins in the parameter map get node in the graph.
+[2022.12.05-07.30.53:911][  0]LogTexture: Display: Building textures: /Game/Effects/Textures/General/T_Cube_BW.T_Cube_BW (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.53:911][  0]LogTexture: Display: Building textures: /Game/Effects/Textures/General/squares.squares (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 10.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.53:911][  0]LogTexture: Display: Building textures: /Game/Effects/Textures/BlastGraphics/T_Graphics.T_Graphics (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.53:911][  0]LogTexture: Display: Building textures: /Game/Effects/Particles/Explosion/NS_Grenade_Trail.NS_Grenade_Trail:Arrows_0.Texture2D_0 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.53:911][  0]LogTexture: Display: Building textures: /Game/Effects/Particles/Item/NS_Heal.NS_Heal:DirectionalBurst.Texture2D_2 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.53:911][  0]LogTexture: Display: Building textures: /Game/Effects/Particles/Item/NS_Heal.NS_Heal:ThumbnailTexture (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.53:911][  0]LogTexture: Display: Building textures: /Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/SphereRenderNormalsMap.SphereRenderNormalsMap (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.53:911][  0]LogTexture: Display: Building textures: /Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/SphereRenderMask.SphereRenderMask (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.53:911][  0]LogTexture: Display: Building textures: /Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/SphereRenderHeightMap.SphereRenderHeightMap (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.53:911][  0]LogTexture: Display: Building textures: /Game/Effects/Textures/Rocks/ultkedqjw_4K_Albedo.ultkedqjw_4K_Albedo (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.53:911][  0]LogTexture: Display: Building textures: /Game/Effects/Textures/Rocks/ultkedqjw_4K_Normal_LOD0.ultkedqjw_4K_Normal_LOD0 (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.53:911][  0]LogStreaming: Warning: Took 127.25ms to ProcessLoadedPackages
+[2022.12.05-07.30.54:219][  0]LogGameFeatures: Display: Game feature 'ShooterMaps' loaded successfully. Ending state: Registered
+[2022.12.05-07.30.54:220][  0]LogGameFeatures: Display: Game feature 'ShooterCore' loaded successfully. Ending state: Registered
+[2022.12.05-07.30.54:220][  0]LogPackageName: Display: FPackageName: Mount point added: 'E:/Attribute Overload/UE5-Multiplayer-Demo/LyraStarterGame/Plugins/GameFeatures/TopDownArena/Content/' mounted to '/TopDownArena/'
+[2022.12.05-07.30.54:230][  0]LogPackageLocalizationCache: Processed 1 localized package path(s) for 1 prioritized culture(s) in 0.000151 seconds
+[2022.12.05-07.30.54:323][  0]LogGameFeatures: Display: Game feature 'TopDownArena' loaded successfully. Ending state: Registered
+[2022.12.05-07.30.54:323][  0]LogLyra: Display: Startup job "InitializeAbilitySystem()" starting
+[2022.12.05-07.30.54:329][  0]LogLyra: Display: Startup job "InitializeAbilitySystem()" took 0.01 seconds to complete
+[2022.12.05-07.30.54:329][  0]LogLyra: Display: Startup job "InitializeGameplayCueManager()" starting
+[2022.12.05-07.30.54:329][  0]LogLyra: Display: Startup job "InitializeGameplayCueManager()" took 0.00 seconds to complete
+[2022.12.05-07.30.54:329][  0]LogLyra: Display: Startup job "GetGameData()" starting
+[2022.12.05-07.30.54:329][  0]LogLyra: Loading GameData: /Game/DefaultGameData.DefaultGameData ...
+[2022.12.05-07.30.54:408][  0]LogStats:             ... GameData loaded! -  0.079 s
+[2022.12.05-07.30.54:408][  0]LogLyra: Display: Startup job "GetGameData()" took 0.08 seconds to complete
+[2022.12.05-07.30.54:408][  0]LogLyra: Display: All startup jobs took 0.08 seconds to complete
+[2022.12.05-07.30.54:408][  0]LogUObjectGlobals: BeginLoad(/Game/UI/Foundation/SoftwareCursors/W_ArrowCursor) is flushing async loading
+[2022.12.05-07.30.54:408][  0]LogStreaming: Display: FlushAsyncLoading: 0 QueuedPackages, 4 AsyncPackages
+[2022.12.05-07.30.54:423][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.12.05-07.30.54:423][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.12.05-07.30.54:457][  0]LogTexture: Display: Building textures: /Game/Effects/Textures/General/T_Inky_Smoke_Tile.T_Inky_Smoke_Tile (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.54:457][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.12.05-07.30.54:465][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.12.05-07.30.54:465][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.12.05-07.30.54:465][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-07.30.54:465][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-07.30.54:465][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2022.12.05-07.30.54:465][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2022.12.05-07.30.54:465][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2022.12.05-07.30.54:465][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.05-07.30.54:465][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.05-07.30.54:465][  0]LogAudio: Display: AudioDevice MaxSources: 64
+[2022.12.05-07.30.54:466][  0]LogAudio: Display: Audio Spatialization Plugin: Simple ITD is external send: 0
+[2022.12.05-07.30.54:466][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.05-07.30.54:466][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-07.30.54:466][  0]LogAudio: Display: Audio Modulation Plugin: DefaultModulationPlugin
+[2022.12.05-07.30.54:479][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.05-07.30.54:546][  0]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (High Definition Audio Device)
+[2022.12.05-07.30.54:553][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-07.30.54:553][  0]LogAudioMixer: Display: Creating Master Submix 'MainSubmix'
+[2022.12.05-07.30.54:583][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-07.30.54:592][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.12.05-07.30.54:592][  0]LogAudioMixer: Display: Output buffers initialized: Frames=256, Channels=2, Samples=512, InstanceID=1
+[2022.12.05-07.30.54:596][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.12.05-07.30.54:596][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.12.05-07.30.54:596][  0]LogInit: FAudioDevice initialized.
+[2022.12.05-07.30.54:596][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.12.05-07.30.54:596][  0]LogInit: Texture streaming: Enabled
+[2022.12.05-07.30.55:085][  0]LogTexture: Display: Building textures: /Engine/EngineResources/Gray.Gray (TFO_AutoDXT, 8X8 X1X1) (Required Memory Estimate: 0.001221 MB), EncodeSpeed: Final
+[2022.12.05-07.30.55:085][  0]LogTexture: Display: Building textures: /Game/Weapons/Generic/Textures/T_SoftNoise.T_SoftNoise (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.55:085][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.12.05-07.30.55:102][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.12.05-07.30.55:102][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: LyraEditor Win64 Development
+[2022.12.05-07.30.55:432][  0]LogLiveCoding: Display: Detected running instance in process group "UE_LyraStarterGame_0xa5192f5a", connecting to console process (PID: 5212)
+[2022.12.05-07.30.55:432][  0]LogLiveCoding: Display: Waiting for server
+[2022.12.05-07.30.55:432][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.12.05-07.30.55:432][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.12.05-07.30.55:449][  0]LogConsoleResponse: UpdateGameModeDeviceProfileAndFps MaxRefreshRate=60, ExperienceSuffix='', UserPicked=''->'', PlatformBase='WindowsEditor', AppliedActual=''
+[2022.12.05-07.30.55:463][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.05-07.30.55:468][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.05-07.30.55:474][  0]LogChartCreation: Started creating FPS charts at 16803333.525905 seconds
+[2022.12.05-07.30.55:485][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.12.05-07.30.55:486][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-07.30.55:489][  0]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2022.12.05-07.30.55:716][  0]LogInit: Display: Game Engine Initialized.
+[2022.12.05-07.30.55:717][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2022.12.05-07.30.55:856][  0]LogInit: Display: Starting Game.
+[2022.12.05-07.30.55:857][  0]LogNet: Browse: /Game/Maps/Menu/MainMenu?Name=Player
+[2022.12.05-07.30.55:857][  0]LogLoadingScreen: Loading screen showing: 0. Reason: GameState hasn't yet replicated (it's null)
+[2022.12.05-07.30.55:858][  0]LogLoad: LoadMap: /Game/Maps/Menu/MainMenu?Name=Player
+[2022.12.05-07.30.55:858][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2022.12.05-07.30.55:858][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-07.30.55:892][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.05-07.30.55:905][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.12.05-07.30.55:905][  0]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2022.12.05-07.30.55:916][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.12.05-07.30.55:916][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.05-07.30.55:918][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.05-07.30.55:959][  0]LogAIModule: Creating AISystem for world MainMenu
+[2022.12.05-07.30.55:967][  0]LogLoad: Game class is 'B_LyraGameMode_C'
+[2022.12.05-07.30.56:003][  0]LogWorld: Bringing World /Game/Maps/Menu/MainMenu.MainMenu up for play (max tick rate 0) at 2022.12.05-01.30.56
+[2022.12.05-07.30.56:003][  0]LogWorld: Bringing up level for play took: 0.001102
+[2022.12.05-07.30.56:044][  0]LogTexture: Display: Building textures: /Game/Effects/Textures/General/T_NanoFiber_Pattern_N.T_NanoFiber_Pattern_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.56:044][  0]LogLoad: Took 0.186179 seconds to LoadMap(/Game/Maps/Menu/MainMenu)
+[2022.12.05-07.30.56:116][  0]LogStats: UGameplayCueManager::InitializeEditorObjectLibrary -  0.005 s
+[2022.12.05-07.30.56:117][  0]LogBackChannel: Listening on FBackChannelConnection Client Socket (localport: 2049)
+[2022.12.05-07.30.56:117][  0]LogRemoteSession: Started listening on port 2049
+[2022.12.05-07.30.56:117][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.12.05-07.30.56:117][  0]LogLoad: (Engine Initialization) Total time: 49.95 seconds
+[2022.12.05-07.30.56:117][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.12.05-07.30.56:120][  0]LogLyraExperience: Identified experience LyraExperienceDefinition:B_LyraDefaultExperience (Source: Default)
+[2022.12.05-07.30.57:043][  0]LogLyraExperience: EXPERIENCE: StartExperienceLoad(CurrentExperience = LyraExperienceDefinition:B_LyraDefaultExperience, Server)
+[2022.12.05-07.30.57:043][  0]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2022.12.05-07.30.57:043][  0]LogLoadingScreen: Showing loading screen when 'IsShowingInitialLoadingScreen()' is false.
+[2022.12.05-07.30.57:043][  0]LogLoadingScreen: Experience still loading
+[2022.12.05-07.30.57:043][  0]LogUObjectGlobals: BeginLoad(/Game/UI/Foundation/LoadingScreen/W_LoadingScreen_Host) is flushing async loading
+[2022.12.05-07.30.57:128][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-07.30.57:131][  0]LogLyraExperience: EXPERIENCE: OnExperienceLoadComplete(CurrentExperience = LyraExperienceDefinition:B_LyraDefaultExperience, Server)
+[2022.12.05-07.30.57:132][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.12.05-07.30.57:564][  0]LogTexture: Display: Building textures: /Engine/EditorResources/SequenceRecorder/Countdown.Countdown (TFO_AutoDXT, 1152X128 X1X1) (Required Memory Estimate: 2.8125 MB), EncodeSpeed: Final
+[2022.12.05-07.30.57:565][  0]LogTexture: Display: Building textures: /Engine/EditorResources/SequenceRecorder/RecordingIndicator.RecordingIndicator (TFO_AutoDXT, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Final
+[2022.12.05-07.30.57:565][  0]LogTexture: Display: Building textures: /Game/Effects/Textures/Decals/concrete_normal2x2.concrete_normal2x2 (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.57:565][  0]LogTexture: Display: Building textures: /Game/UI/Menu/Art/T_UI_LyraLogo_2K.T_UI_LyraLogo_2K (TFO_AutoDXT, 2048X1024 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.57:565][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.12.05-07.30.57:565][  0]LogConsoleResponse: UpdateGameModeDeviceProfileAndFps MaxRefreshRate=60, ExperienceSuffix='', UserPicked=''->'', PlatformBase='WindowsEditor', AppliedActual=''
+[2022.12.05-07.30.57:609][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.12.05-07.30.57:617][  0]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.12.05-07.30.58:339][  0]LogTexture: Display: Building textures: /Game/Effects/Textures/Decals/concrete_depth2x2.concrete_depth2x2 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.58:339][  0]LogSlate: Took 0.004913 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.05-07.30.58:573][  0]LogTexture: Display: Building textures: /Game/Weapons/Generic/Textures/T_Weapon_N.T_Weapon_N (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.58:573][  0]LogTexture: Display: Building textures: /Game/Weapons/Generic/Textures/T_Weapon_Mask.T_Weapon_Mask (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.58:573][  0]LogTexture: Display: Building textures: /Game/Weapons/Generic/Textures/T_Weapon_D.T_Weapon_D (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.58:573][  0]LogTexture: Display: Building textures: /Game/Weapons/Generic/Textures/T_Weapon_AORM.T_Weapon_AORM (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.58:573][  0]LogTexture: Display: Building textures: /Game/Effects/Particles/Weapons/Emitters/NE_MuzzleFlashSparks.NE_MuzzleFlashSparks:Texture2D_1 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.58:573][  0]LogTexture: Display: Building textures: /Game/Effects/Particles/Impacts/NS_ImpactGlass.NS_ImpactGlass:NE_ImpactSparks001_1.NiagaraEmitter_1.Texture2D_1 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.58:573][  0]LogMoviePlayer: Initializing movie player
+[2022.12.05-07.30.58:591][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/BasicShapes/Cylinder.Cylinder being ready before playing
+[2022.12.05-07.30.58:592][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/BasicShapes/Sphere.Sphere being ready before playing
+[2022.12.05-07.30.58:712][  1]LogTexture: Display: Building textures: /Game/Effects/Textures/Teleporter/rounderCorner.rounderCorner (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.58:712][  1]LogTexture: Display: Building textures: /Game/Effects/Particles/Weapons/Emitters/NE_MuzzleFlashSmoke.NE_MuzzleFlashSmoke:ThumbnailTexture (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.58:783][  1]LogTexture: Display: Building textures: /Game/Effects/Particles/Weapons/NS_WeaponFire.NS_WeaponFire:NE_MuzzleFlashSmoke.NiagaraEmitter_0.ThumbnailTexture (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Final
+[2022.12.05-07.30.58:783][  1]LogNiagara: Compiling System NiagaraSystem /Game/Effects/Particles/Footsteps/NS_Footsteps.NS_Footsteps took 1.961587 sec, no shader worker used.
+[2022.12.05-07.31.06:300][  2]LogTexture: Display: Building textures: /Game/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_01_MSK.T_Manny_01_MSK (TFO_DXT1, 8192X8192 X1X1) (Required Memory Estimate: 1280.000 MB), EncodeSpeed: Final
+[2022.12.05-07.31.06:300][  2]LogTexture: Display: Building textures: /Game/Weapons/Generic/Textures/T_NoiseSpeckle_01.T_NoiseSpeckle_01 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Final
+[2022.12.05-07.31.06:300][  2]LogTexture: Display: Building textures: /Game/Characters/Heroes/Mannequin/Textures/Shared/T_Detail_Normal.T_Detail_Normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Final
+[2022.12.05-07.31.06:300][  2]LogTexture: Display: Building textures: /Game/Effects/Textures/Flipbooks/rotatingcube_sprite_N_0.rotatingcube_sprite_N_0 (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Final
+[2022.12.05-07.31.06:300][  2]LogTexture: Display: Building textures: /Game/Effects/Textures/FootPrint/T_FootPrint_01_MSK.T_FootPrint_01_MSK (TFO_AutoDXT, 4096X2048 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Final
+[2022.12.05-07.31.06:300][  2]LogTexture: Display: Building textures: /Game/Effects/Textures/FootPrint/T_FootPrint_01_N.T_FootPrint_01_N (TFO_BC5, 4096X2048 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Final
+[2022.12.05-07.31.06:300][  2]LogTexture: Display: Building textures: /Game/Weapons/Generic/Textures/T_vk1iehhc_4K_Roughness.T_vk1iehhc_4K_Roughness (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Final
+[2022.12.05-07.31.06:336][  2]LogNiagara: Compiling System NiagaraSystem /Game/Effects/Particles/Explosion/NS_Grenade_Trail.NS_Grenade_Trail took 7.523984 sec, no shader worker used.
